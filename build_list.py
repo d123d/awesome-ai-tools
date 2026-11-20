@@ -79,12 +79,18 @@ def section(repos):
         out.append("")
     return "\n".join(out), {k: len(v) for k, v in grouped.items() if v}
 
+def update_readme(readme, repos):
+    """Return the README text with the starred section regenerated, and the per-section counts."""
+    sec, counts = section(repos)
+    # The replacement is a function, so a backslash in a repo description is not read as a regex escape.
+    new, n = re.subn(r"## Starred by d123d — the complete list\n.*?(?=\n## License)", lambda m: sec.rstrip() + "\n", readme, flags=re.S)
+    assert n == 1, "README.md: the 'Starred by d123d' section (up to '## License') was not found"
+    return new, counts
+
 if __name__ == "__main__":
     repos = fetch()
-    json.dump(repos, open("data/starred.json", "w"), indent=1)
-    sec, counts = section(repos)
-    readme = open("README.md").read()
-    new = re.sub(r"## Starred by d123d — the complete list\n.*?(?=\n## License)", sec.rstrip() + "\n", readme, flags=re.S)
-    assert new != readme
-    open("README.md", "w").write(new)
+    readme = open("README.md", encoding="utf-8").read()
+    new, counts = update_readme(readme, repos)
+    json.dump(repos, open("data/starred.json", "w", encoding="utf-8"), indent=1)
+    open("README.md", "w", encoding="utf-8", newline="\n").write(new)
     print(len(repos), counts)
