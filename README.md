@@ -13,6 +13,7 @@ Only open, free, or free-tier tools are listed as *tools* in Our Stack. Each ent
 
 ## Contents
 
+- [Recent Additions](#recent-additions)
 - [Agent Harnesses & Coding Agents](#agent-harnesses--coding-agents)
 - [Skills, MCP & Agent Infrastructure](#skills-mcp--agent-infrastructure)
 - [Local Models & Inference](#local-models--inference)
@@ -23,6 +24,48 @@ Only open, free, or free-tier tools are listed as *tools* in Our Stack. Each ent
 - [Automation & Bridges](#automation--bridges)
 - [Starred by d123d — the complete list](#starred-by-d123d--the-complete-list)
 - [License](#license)
+
+## Recent Additions
+
+### Nov 19, 2026 — D&D agent-stack tools (in [dnd-agent-stack](https://github.com/d123d/dnd-agent-stack))
+
+- `tools/stage.py` — Event-to-stage translator: campaign events (NDJSON) → Blender staging script + shotlist; sets per location, named actors per NPC, keyframed moves/deaths/reveals, camera per beat. Nothing is staged before its reveal event.
+- `tools/rigs.py` — Rig pass: species→height, name-hash palette, props, articulated proxy rigs (root + torso/head/arms/legs) built by stage.py.
+- `tools/film.py` + `film_session.py` — Filming: previs camera paths by intent, Eevee previs / Cycles final, DM approval gate, then an mmx handoff file with per-shot frame, prompt, and exact MiniMax command.
+- `tools/srd.py` — SRD 5.2.1 loader over the complete 5e database (341 monsters, 339 spells).
+- `tools/dmctl.py` + `state_engine.py` — Campaign state engine: SQLite + append-only events, mutate → validate → commit.
+- `tools/dm_mcp_server.py` — MCP server exposing the same validated state path to agents.
+- `tools/lore.py` + `permissions.py` — Tiered lore (campaign > canon > reference) and server-side role permissions for DM / player / NPC agents.
+- `build_lore_index.py` (dnd-library) — Lore index builder over the Forgotten Realms play files.
+
+### Nov 14, 2026 — Skill batch (29 skills, read-first, from skills.sh)
+
+World generation: procedural-gen, worldbuilding, threejs-world-generation, worldlabs, scenario-3d-worlds, systemic-worldbuilding, oblique-worldbuilding, maplibre-terrain-rendering, cesiumjs-terrain-environment. Blender & 3D: blender-modeling/materials/rendering/export/animation/cameras, blender-mcp, camera-cinematography, threejs-animation, meshy-3d-generation, layer-3d, game-3d-assets. MiniMax: mmx-cli, h3-prompt-writing. Writing & D&D: fantasy-fiction-writer, fantasy-writer, story-planning, dnd, dnd5e-srd. Plus openrouter-typescript-sdk, ponytail, and caveman.
+
+### Most recently starred (Nov 2026, newest first)
+
+- [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) — Long-video generation model.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Editable AI video editor. *Open source.*
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Gives an agent eyes on the internet: Twitter, Reddit, YouTube and more.
+- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) — Blender 5.3 workflows as agent skills for Claude Code, Codex, Gemini CLI.
+- [toyxyz/toyxyz_RGBMocap](https://github.com/toyxyz/toyxyz_RGBMocap) — Windows video motion capture (ExMR / FlowHMR / GVHMR).
+- [MaxLiu22/Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig) — Retarget human motion from video to a Mixamo-rigged character.
+- [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) — Agent skill for narrated cinematic films built from code.
+- [codepawl/crucible](https://github.com/codepawl/crucible) — 3D engine that AI agents drive.
+- [islandmed/SculptForge](https://github.com/islandmed/SculptForge) — Open-source 3D sculpting. 
+- [JAMESYJL/ShapeLLM-Omni](https://github.com/JAMESYJL/ShapeLLM-Omni) — Multimodal LLM for 3D generation and understanding (NeurIPS 2025).
+- [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) — Text-to-3D curation.
+- [suvadityamuk/trellis2-cuda](https://github.com/suvadityamuk/trellis2-cuda) — TRELLIS.2 image-to-3D in pure CUDA, 5.3× faster.
+- [Nebuluss/H3-AudioRetake-studio](https://github.com/Nebuluss/H3-AudioRetake-studio) — Audio and lip-sync retake studio for ComfyUI + MiniMax H3.
+- [jutsuhq/open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield) — Index of open-source Higgsfield alternatives (117 projects).
+- [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) — Claude skills that write studio-quality AI video prompts.
+- [alisson-anjos/Henge](https://github.com/alisson-anjos/Henge) — Motion transfer and video swaps with MiniMax H3.
+- [itsmetamike/reshoot-4d](https://github.com/itsmetamike/reshoot-4d) — Reshoot any video in 4D; camera editor in ComfyUI.
+- [PxTicks/h3-motion](https://github.com/PxTicks/h3-motion) — MiniMax H3 motion work.
+- [nomadoor/ComfyUI-Panorama-Stickers](https://github.com/nomadoor/ComfyUI-Panorama-Stickers) — Panorama stickers node for ComfyUI.
+- [xentome/EDITS-WITH-AI](https://github.com/xentome/EDITS-WITH-AI) — Local AI music edits: MiniMax H3 + local LLM in ComfyUI.
+
+All 20 are also in the full starred list below.
 
 ## Agent Harnesses & Coding Agents
 
