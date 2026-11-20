@@ -2,6 +2,12 @@
 
 The inventory behind [Awesome AI Tools](README.md). Everything we actually run, grouped by where it lives. No credentials, tokens, or private URLs — names and jobs only. Snapshot: Nov 19, 2026.
 
+## Recent additions
+
+- **Nov 19, 2026:** dnd-agent-stack tools — stage.py, rigs.py, film.py / film_session.py, srd.py, dmctl.py / state_engine.py, dm_mcp_server.py, lore.py, permissions.py; dnd-library build_lore_index.py.
+- **Nov 14, 2026:** 29-skill batch from skills.sh (world generation ×10, Blender/3D ×11, MiniMax ×2, writing/D&D ×5) plus openrouter-typescript-sdk, ponytail, caveman — all in the custom skills list below.
+- **Nov 13, 2026:** Telegram bridge to the local coding agent on the PC.
+
 ## Cloud agent (Muse, this VM)
 
 - **Agent:** Muse (Muse Spark, Meta) — memory, goals, scheduled jobs, subagents, browser.
