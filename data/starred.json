@@ -1,0 +1,4803 @@
+[
+ {
+  "full_name": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "description": null,
+  "stars": 9598,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+  "stars": 87055,
+  "language": "TypeScript",
+  "topics": [
+   "ai",
+   "ai-agents",
+   "animation",
+   "claude-code",
+   "ffmpeg",
+   "framework",
+   "gsap",
+   "html",
+   "html-to-video",
+   "mcp",
+   "motion-graphics",
+   "puppeteer",
+   "rendering",
+   "typescript",
+   "video-editor"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "MaxLiu22/Motion2MixamoRig",
+  "url": "https://github.com/MaxLiu22/Motion2MixamoRig",
+  "description": "Retarget human motion from video to an Adobe Mixamo-rigged 3D character.",
+  "stars": 2038,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "toyxyz/toyxyz_RGBMocap",
+  "url": "https://github.com/toyxyz/toyxyz_RGBMocap",
+  "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+  "stars": 2219,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "JAMESYJL/ShapeLLM-Omni",
+  "url": "https://github.com/JAMESYJL/ShapeLLM-Omni",
+  "description": "[NeurIPS 2025 Spotlight] A Native Multimodal LLM for 3D Generation and Understanding",
+  "stars": 583,
+  "language": "Python",
+  "topics": [
+   "3d-captioning",
+   "3d-editing",
+   "image-to-3d",
+   "llm",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Nebuluss/H3-AudioRetake-studio",
+  "url": "https://github.com/Nebuluss/H3-AudioRetake-studio",
+  "description": "A local audio and lip-sync retake studio for ComfyUI and MiniMax H3.",
+  "stars": 22,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "jutsuhq/open-source-higgsfield",
+  "url": "https://github.com/jutsuhq/open-source-higgsfield",
+  "description": "Open-source Higgsfield AI alternatives on GitHub: 117 projects, 110 of them from ComfyUI's #OpenSourceHiggsfield challenge, with its 16 prize winners. Character swap (OPENjutsu), effects, camera re-shoots, films and full studios, with stars and licenses. CC0.",
+  "stars": 128,
+  "language": "JavaScript",
+  "topics": [
+   "ai-video",
+   "ai-video-generator",
+   "awesome",
+   "awesome-list",
+   "character-swap",
+   "comfyui",
+   "generative-ai",
+   "genjutsu",
+   "higgsfield",
+   "higgsfield-ai",
+   "higgsfield-alternative",
+   "ltx-video",
+   "open-source-alternative",
+   "open-source-higgsfield",
+   "open-weights",
+   "openjutsu",
+   "opensourcehiggsfield",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "rediumvex/ai-video-generator-claude",
+  "url": "https://github.com/rediumvex/ai-video-generator-claude",
+  "description": "10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic & more.",
+  "stars": 492,
+  "language": "Python",
+  "topics": [
+   "ai-content",
+   "ai-video",
+   "ai-video-generator",
+   "anthropic",
+   "claude",
+   "claude-code",
+   "claude-skill",
+   "content-creator",
+   "higgsfield",
+   "instagram-reels",
+   "personal-branding",
+   "prompt-engineering",
+   "saas-marketing",
+   "seedance",
+   "social-media-video",
+   "tiktok",
+   "video-generation",
+   "video-marketing",
+   "video-prompts",
+   "youtube-shorts"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "alisson-anjos/Henge",
+  "url": "https://github.com/alisson-anjos/Henge",
+  "description": "Open studio for motion transfer and video swaps with MiniMax H3 guide latents.",
+  "stars": 134,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "xentome/EDITS-WITH-AI",
+  "url": "https://github.com/xentome/EDITS-WITH-AI",
+  "description": "Edits musicales con IA local: MiniMax H3 + LLM local en ComfyUI (provisional)",
+  "stars": 17,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "itsmetamike/reshoot-4d",
+  "url": "https://github.com/itsmetamike/reshoot-4d",
+  "description": "Reshoot any video in 4D. A 4D camera editor inside ComfyUI, running locally on open weights.",
+  "stars": 112,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "PxTicks/h3-motion",
+  "url": "https://github.com/PxTicks/h3-motion",
+  "description": null,
+  "stars": 159,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "nomadoor/ComfyUI-Panorama-Stickers",
+  "url": "https://github.com/nomadoor/ComfyUI-Panorama-Stickers",
+  "description": null,
+  "stars": 305,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Moh4696/cinematic-skill",
+  "url": "https://github.com/Moh4696/cinematic-skill",
+  "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+  "stars": 810,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "claude-code",
+   "codex",
+   "documentary",
+   "explainer-video",
+   "motion-graphics",
+   "skia",
+   "video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "EL4CTEO/blender-skills",
+  "url": "https://github.com/EL4CTEO/blender-skills",
+  "description": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+  "stars": 2454,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "agent-skills",
+   "ai-agents",
+   "blender",
+   "blender-python",
+   "bpy",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "game-assets",
+   "gemini-cli",
+   "godot",
+   "mcp",
+   "pbr",
+   "rigging",
+   "roblox",
+   "unity",
+   "unreal-engine"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "codepawl/crucible",
+  "url": "https://github.com/codepawl/crucible",
+  "description": "3D engine that AI agents drive",
+  "stars": 815,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "3d-engine",
+   "agentic-ai",
+   "ai-agents",
+   "blender",
+   "claude-code",
+   "game-engine",
+   "gaussian-splatting",
+   "gltf",
+   "javascript",
+   "mcp",
+   "mcp-server",
+   "model-context-protocol",
+   "path-tracer",
+   "path-tracing",
+   "pbr",
+   "rendering",
+   "threejs-alternative",
+   "webgl2",
+   "webgpu"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "suvadityamuk/trellis2-cuda",
+  "url": "https://github.com/suvadityamuk/trellis2-cuda",
+  "description": "TRELLIS.2 image-to-3D in pure CUDA C++: bitwise parity with PyTorch, 5.3x faster on H200",
+  "stars": 38,
+  "language": "Cuda",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+  "stars": 113339,
+  "language": "Python",
+  "topics": [
+   "agent-infrastructure",
+   "ai-agent",
+   "ai-search",
+   "automation",
+   "bilibili",
+   "claude-code",
+   "cli",
+   "cursor",
+   "free-api",
+   "llm-tools",
+   "mcp",
+   "python",
+   "reddit-scraper",
+   "twitter-scraper",
+   "web-scraper",
+   "xiaohongshu",
+   "youtube-transcript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "yyeboah/Awesome-Text-to-3D",
+  "url": "https://github.com/yyeboah/Awesome-Text-to-3D",
+  "description": "A growing curation of Text-to-3D, Diffusion-to-3D works.",
+  "stars": 616,
+  "language": "TeX",
+  "topics": [
+   "3dgs",
+   "diffusion-to-3d",
+   "image-to-3d",
+   "nerf",
+   "neural-rendering",
+   "t23d",
+   "text-to-3d",
+   "tt3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "islandmed/SculptForge",
+  "url": "https://github.com/islandmed/SculptForge",
+  "description": "Free, open-source 3D sculpting for Linux, macOS and Windows: dense meshes, remeshing, painting, built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD.",
+  "stars": 739,
+  "language": "C++",
+  "topics": [
+   "3d",
+   "3d-sculpting",
+   "blender",
+   "blender-addon",
+   "cpp",
+   "dear-imgui",
+   "digital-sculpting",
+   "fbx",
+   "game-development",
+   "gaussian-splatting",
+   "gltf",
+   "image-to-3d",
+   "mcp",
+   "opengl",
+   "openusd",
+   "sculpting",
+   "text-to-3d",
+   "unreal-engine"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Bingeljell/image-to-3dlab",
+  "url": "https://github.com/Bingeljell/image-to-3dlab",
+  "description": "AssetFurnace: the most complete open-source image-to-3D pipeline (Oct 2026). Prompt or picture \u2192 textured, rigged, animated game character, locally on Apple Silicon or NVIDIA. Pixal3D, TRELLIS.2, Hunyuan3D, SF3D, auto-rig and 21 moves. For indie game devs and 3D artists. Free, Apache-2.0.",
+  "stars": 1217,
+  "language": "Python",
+  "topics": [
+   "3d-generation",
+   "3d-models",
+   "animation",
+   "apple-silicon",
+   "auto-rigging",
+   "blender",
+   "game-assets",
+   "gamedev",
+   "generative-ai",
+   "godot",
+   "hunyuan3d",
+   "image-to-3d",
+   "indie-game-dev",
+   "local-first",
+   "mlx",
+   "pixal3d",
+   "rigging",
+   "text-to-3d",
+   "trellis",
+   "unity"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "3DTopia/LGM",
+  "url": "https://github.com/3DTopia/LGM",
+  "description": "[ECCV 2024 Oral] LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.",
+  "stars": 2125,
+  "language": "Python",
+  "topics": [
+   "gaussian-splatting",
+   "image-to-3d",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "AiuniAI/Unique3D",
+  "url": "https://github.com/AiuniAI/Unique3D",
+  "description": "[NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+  "stars": 3599,
+  "language": "Python",
+  "topics": [
+   "3d-aigc",
+   "aigc",
+   "image-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "facebookresearch/map-anything",
+  "url": "https://github.com/facebookresearch/map-anything",
+  "description": "MapAnything: Universal Feed-Forward Metric 3D Reconstruction",
+  "stars": 3916,
+  "language": "Python",
+  "topics": [
+   "3d-reconstruction",
+   "ai",
+   "calibration",
+   "depth-completion",
+   "depth-estimation",
+   "image-to-3d",
+   "multi-view-stereo",
+   "robotics",
+   "sfm"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "dreamgaussian/dreamgaussian",
+  "url": "https://github.com/dreamgaussian/dreamgaussian",
+  "description": "[ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation",
+  "stars": 4365,
+  "language": "Python",
+  "topics": [
+   "image-to-3d",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ashawkey/stable-dreamfusion",
+  "url": "https://github.com/ashawkey/stable-dreamfusion",
+  "description": "Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.",
+  "stars": 8880,
+  "language": "Python",
+  "topics": [
+   "dreamfusion",
+   "gui",
+   "image-to-3d",
+   "nerf",
+   "stable-diffusion",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
+  "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
+  "description": "[ICML 2026] WorldMirror: Fast and Universal 3D reconstruction model for versatile tasks",
+  "stars": 1234,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-reconstruction",
+   "aigc",
+   "hunyuan",
+   "hunyuan3d",
+   "image-to-3d",
+   "scene-generation",
+   "world-model",
+   "world-models"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/Hunyuan3D-2.1",
+  "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+  "description": "From Images to High-Fidelity 3D Assets with Production-Ready PBR Material",
+  "stars": 4493,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-aigc",
+   "3d-generation",
+   "hunyuan3d",
+   "image-to-3d",
+   "shape",
+   "shape-generation",
+   "text-to-3d",
+   "texture-genertaion"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/TRELLIS",
+  "url": "https://github.com/microsoft/TRELLIS",
+  "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\" (CVPR'25 Spotlight).",
+  "stars": 14357,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-aigc",
+   "3d-generation",
+   "image-to-3d",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/Hunyuan3D-2",
+  "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2",
+  "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+  "stars": 15501,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-aigc",
+   "3d-generation",
+   "diffusion-models",
+   "hunyuan3d",
+   "image-to-3d",
+   "shape",
+   "shape-generation",
+   "text-to-3d",
+   "texture-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ActiveVisionLab/Awesome-LLM-3D",
+  "url": "https://github.com/ActiveVisionLab/Awesome-LLM-3D",
+  "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
+  "stars": 2283,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "o3de/o3de",
+  "url": "https://github.com/o3de/o3de",
+  "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+  "stars": 9892,
+  "language": "C++",
+  "topics": [
+   "3d-graphics",
+   "3d-graphics-engine",
+   "animation",
+   "game-development",
+   "game-engine",
+   "gamedev"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/HunyuanWorld-Voyager",
+  "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
+  "description": "Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction.",
+  "stars": 1610,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-generation",
+   "aigc",
+   "hunyuan3d",
+   "image-to-3d",
+   "image-to-video",
+   "scene-generation",
+   "world-model",
+   "world-models"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mromidev/claude-animated-shorts",
+  "url": "https://github.com/mromidev/claude-animated-shorts",
+  "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+  "stars": 4257,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/HY-WorldPlay",
+  "url": "https://github.com/Tencent-Hunyuan/HY-WorldPlay",
+  "description": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+  "stars": 1630,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "hunyuan",
+   "hunyuan-world",
+   "hunyuan3d",
+   "image-to-3d",
+   "world-model",
+   "world-models"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/Hunyuan3D-WorldClaw",
+  "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw",
+  "description": "WorldClaw: Agentic 3D Open-world Generation at Scale",
+  "stars": 1468,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "CesiumGS/cesium",
+  "url": "https://github.com/CesiumGS/cesium",
+  "description": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
+  "stars": 15969,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "3d-globe",
+   "3d-tiles",
+   "cesium",
+   "czml",
+   "geospatial",
+   "gis",
+   "gltf",
+   "webgl"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "nv-tlabs/lyra",
+  "url": "https://github.com/nv-tlabs/lyra",
+  "description": "Project Lyra: Open Generative 3D World Models",
+  "stars": 2885,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "diffusion",
+   "gaussians",
+   "video",
+   "world-model"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "paladini/harness-score",
+  "url": "https://github.com/paladini/harness-score",
+  "description": "Your AI coding agent is only as reliable as the harness around it. Measure that harness in seconds with harness-score.",
+  "stars": 634,
+  "language": "TypeScript",
+  "topics": [
+   "ai-agents",
+   "ai-assisted-development",
+   "cli",
+   "cursor",
+   "cursor-plugin",
+   "developer-tools",
+   "guardrails",
+   "harness-engineering",
+   "maturity-model",
+   "static-analysis"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mkkellogg/GaussianSplats3D",
+  "url": "https://github.com/mkkellogg/GaussianSplats3D",
+  "description": "Three.js-based implementation of 3D Gaussian splatting",
+  "stars": 2972,
+  "language": "JavaScript",
+  "topics": [
+   "3d-gaussian-splatting",
+   "gaussian-splatting",
+   "javascript",
+   "three-js",
+   "threejs",
+   "webgl"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "MengTo/threeui",
+  "url": "https://github.com/MengTo/threeui",
+  "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+  "stars": 7360,
+  "language": "HTML",
+  "topics": [
+   "react",
+   "shaders",
+   "threejs",
+   "ui-components",
+   "webgl"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "yihui-dev/awesome-opus5-5-videos",
+  "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+  "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+  "stars": 15947,
+  "language": null,
+  "topics": [
+   "ai-video",
+   "awesome",
+   "awesome-list",
+   "claude",
+   "claude-opus",
+   "creative-coding",
+   "motion-graphics",
+   "prompts",
+   "threejs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "aframevr/aframe",
+  "url": "https://github.com/aframevr/aframe",
+  "description": ":a: Web framework for building virtual reality experiences.",
+  "stars": 17714,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "aframe",
+   "augmented-reality",
+   "daydream",
+   "ecs",
+   "game-development",
+   "game-engine",
+   "gamedev",
+   "html",
+   "metaverse",
+   "oculus",
+   "rift",
+   "threejs",
+   "virtual-reality",
+   "virtualreality",
+   "vive",
+   "vr",
+   "webgl",
+   "webvr",
+   "webxr"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "description": "Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.",
+  "stars": 25639,
+  "language": "TypeScript",
+  "topics": [
+   "3d",
+   "3d-scanning",
+   "aec",
+   "agent-skills",
+   "ai-agents",
+   "bim",
+   "building-design",
+   "cad",
+   "cli",
+   "floor-plan",
+   "ifc",
+   "interior-design",
+   "local-first",
+   "mcp",
+   "mcp-server",
+   "openbim",
+   "point-cloud",
+   "scan-to-bim",
+   "threejs",
+   "webgpu"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "img2threejs/img2threejs",
+  "url": "https://github.com/img2threejs/img2threejs",
+  "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+  "stars": 21637,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "ai-agents",
+   "claude-code",
+   "computer-graphics",
+   "generative",
+   "image-to-3d",
+   "procedural-generation",
+   "threejs",
+   "typescript",
+   "webgl"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "pmndrs/react-three-fiber",
+  "url": "https://github.com/pmndrs/react-three-fiber",
+  "description": "\ud83c\udde8\ud83c\udded A React renderer for Three.js",
+  "stars": 33838,
+  "language": "TypeScript",
+  "topics": [
+   "3d",
+   "animation",
+   "fiber",
+   "react",
+   "renderer",
+   "threejs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mrdoob/three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "description": "JavaScript 3D Library.",
+  "stars": 118973,
+  "language": "JavaScript",
+  "topics": [
+   "3d",
+   "augmented-reality",
+   "canvas",
+   "html5",
+   "javascript",
+   "svg",
+   "virtual-reality",
+   "webaudio",
+   "webgl",
+   "webgl2",
+   "webgpu",
+   "webxr"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+  "stars": 147680,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "comfy",
+   "comfyui",
+   "python",
+   "pytorch",
+   "stable-diffusion"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "majidmanzarpour/threejs-game-skills",
+  "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+  "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+  "stars": 2859,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Coding-Solo/godot-mcp",
+  "url": "https://github.com/Coding-Solo/godot-mcp",
+  "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
+  "stars": 6711,
+  "language": "JavaScript",
+  "topics": [
+   "ai",
+   "godot",
+   "mcp"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "leereilly/games",
+  "url": "https://github.com/leereilly/games",
+  "description": "Archived \u2014 A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+  "stars": 25010,
+  "language": null,
+  "topics": [
+   "game",
+   "game-development",
+   "game-engine",
+   "gamedev",
+   "games",
+   "html5-games"
+  ],
+  "archived": true
+ },
+ {
+  "full_name": "storytold/craft-anything",
+  "url": "https://github.com/storytold/craft-anything",
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "stars": 38533,
+  "language": "Rust",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "abeiro/HerikaServer",
+  "url": "https://github.com/abeiro/HerikaServer",
+  "description": null,
+  "stars": 40,
+  "language": "PLpgSQL",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Dwemer-Dynamics/DwemerDynamics",
+  "url": "https://github.com/Dwemer-Dynamics/DwemerDynamics",
+  "description": "Main Website",
+  "stars": 1,
+  "language": "HTML",
+  "topics": [
+   "documentation",
+   "dwemer-dynamics",
+   "website"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+  "stars": 79794,
+  "language": "Python",
+  "topics": [
+   "agent",
+   "ai",
+   "chatgpt",
+   "deepseek",
+   "fine-tuning",
+   "gemma",
+   "image-generation",
+   "llama",
+   "llm",
+   "llms",
+   "openai",
+   "python",
+   "qwen",
+   "reinforcement-learning",
+   "self-hosted",
+   "stable-diffusion",
+   "text-to-speech",
+   "tts",
+   "ui",
+   "unsloth"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "bennyschmidt/ragdoll-studio",
+  "url": "https://github.com/bennyschmidt/ragdoll-studio",
+  "description": "The creative suite for character-driven AI experiences.",
+  "stars": 193,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "ai-bots",
+   "ai-characters",
+   "ai-customer-service",
+   "ai-experts",
+   "ai-game-development",
+   "ai-npc",
+   "ai-support",
+   "ai-writing",
+   "ai-writing-assistant",
+   "image-generation",
+   "llm",
+   "llm-agents",
+   "llm-apps",
+   "rag-playground",
+   "retrieval-augmented-generation",
+   "scoped-knowledge",
+   "shopping-assistant",
+   "stable-diffusion",
+   "video-generation"
+  ],
+  "archived": true
+ },
+ {
+  "full_name": "MinLL/SkyrimNet-GamePlugin",
+  "url": "https://github.com/MinLL/SkyrimNet-GamePlugin",
+  "description": "AI NPCs for Skyrim that talk, remember, react and act, voiced in real time. By Fateless.",
+  "stars": 385,
+  "language": "Papyrus",
+  "topics": [
+   "ai-npc",
+   "llm",
+   "skse",
+   "skyrim",
+   "skyrim-mod",
+   "text-to-speech"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "teamchong/pxpipe",
+  "url": "https://github.com/teamchong/pxpipe",
+  "description": "cut Claude Code token usage by rendering text context as images",
+  "stars": 7873,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "24-ang/earth-0",
+  "url": "https://github.com/24-ang/earth-0",
+  "description": "The engine owns the physics, LLMs own the stories: A deterministic RPG engine + multi-agent runtime for decentralized AI roleplay.",
+  "stars": 5,
+  "language": "TypeScript",
+  "topics": [
+   "agent",
+   "ai-creativity",
+   "airp",
+   "game-engine",
+   "generative-agents",
+   "interactive-fiction",
+   "llm",
+   "multi-agent",
+   "narrative",
+   "npc-agent",
+   "roleplay",
+   "roleplaying-game",
+   "sandbox",
+   "storytelling",
+   "text-rpg",
+   "typescript",
+   "world-simulation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.",
+  "stars": 71974,
+  "language": "Python",
+  "topics": [
+   "ai",
+   "ai-agents",
+   "ai-prompts",
+   "anthropic",
+   "chatbot",
+   "chatgpt",
+   "claude",
+   "claude-code",
+   "codex",
+   "cursor",
+   "gemini",
+   "generative-ai",
+   "google",
+   "grok",
+   "llm",
+   "openai",
+   "prompt",
+   "prompt-engineering",
+   "system-prompt",
+   "system-prompts"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "stars": 80173,
+  "language": "Python",
+  "topics": [
+   "agent",
+   "ai",
+   "anthropic",
+   "claude-code",
+   "compression",
+   "context-engineering",
+   "context-window",
+   "cursor",
+   "fastapi",
+   "langchain",
+   "llm",
+   "mcp",
+   "openai",
+   "prompt-engineering",
+   "proxy",
+   "python",
+   "rag",
+   "token-optimization",
+   "tokens",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/generative-ai-for-beginners",
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "description": "21 Lessons, Get Started Building with Generative AI ",
+  "stars": 123867,
+  "language": "Jupyter Notebook",
+  "topics": [
+   "ai",
+   "azure",
+   "chatgpt",
+   "dall-e",
+   "generative-ai",
+   "generativeai",
+   "gpt",
+   "language-model",
+   "llms",
+   "microsoft-for-beginners",
+   "openai",
+   "prompt-engineering",
+   "semantic-search",
+   "transformers"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+  "stars": 177901,
+  "language": "MDX",
+  "topics": [
+   "ai",
+   "artificial-intelligence",
+   "awesome-list",
+   "chatgpt",
+   "chatgpt-prompts",
+   "claude",
+   "gemini",
+   "gpt",
+   "gpt-4",
+   "llm",
+   "machine-learning",
+   "nextjs",
+   "open-source",
+   "openai",
+   "prompt-engineering",
+   "prompts",
+   "prompts-chat",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+  "stars": 121569,
+  "language": "Go",
+  "topics": [
+   "ai",
+   "anthropic",
+   "caveman",
+   "claude",
+   "claude-code",
+   "llm",
+   "meme",
+   "prompt-engineering",
+   "skill",
+   "tokens"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "stars": 187673,
+  "language": "Go",
+  "topics": [
+   "deepseek",
+   "gemma",
+   "glm",
+   "go",
+   "golang",
+   "gpt-oss",
+   "llama",
+   "llm",
+   "llms",
+   "minimax",
+   "mistral",
+   "muse",
+   "ollama",
+   "qwen"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "geospatial-grimoire/forgotten-realms-wiki-parser",
+  "url": "https://github.com/geospatial-grimoire/forgotten-realms-wiki-parser",
+  "description": "A script to parse the Forgotten Realms Wiki XML dump into a single, clean Markdown file.",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "MSanteler/5e-Tools",
+  "url": "https://github.com/MSanteler/5e-Tools",
+  "description": "A site dedicated to making playing games with your friends as easy as possible.",
+  "stars": 12,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "5etools-mirror-3/5etools-img",
+  "url": "https://github.com/5etools-mirror-3/5etools-img",
+  "description": "A mirror.",
+  "stars": 90,
+  "language": "Dockerfile",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ObsidianTTRPGProject/Obsidian-TTRPG-Atlas",
+  "url": "https://github.com/ObsidianTTRPGProject/Obsidian-TTRPG-Atlas",
+  "description": "Repository containing scripts to convert common ttrpg wiki sites to markdown. ",
+  "stars": 18,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "nooikko/post-map",
+  "url": "https://github.com/nooikko/post-map",
+  "description": "An interactive map of Faer\u00fbn for tabletop D&D \u2014 pan and zoom a tiled 3rd-edition map, find any of 297 marked places, measure travel distances, and read that place's Forgotten Realms Wiki article without leaving the map.",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [
+   "dnd",
+   "dungeons-and-dragons",
+   "faerun",
+   "forgotten-realms",
+   "interactive-map",
+   "map",
+   "nextjs",
+   "openlayers",
+   "react",
+   "tabletop-rpg",
+   "ttrpg",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "bradleynelson/elf-name-generator",
+  "url": "https://github.com/bradleynelson/elf-name-generator",
+  "description": "High Elf name generator with authentic Espruar linguistics from D&D Forgotten Realms",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [
+   "dnd",
+   "dungeons-and-dragons",
+   "espruar",
+   "fantasy",
+   "fantasy-names",
+   "forgotten-realms",
+   "high-elf",
+   "name-generator",
+   "rpg"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mak-kirkland/chronicler",
+  "url": "https://github.com/mak-kirkland/chronicler",
+  "description": "Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain Markdown files on your computer. No sign-up, no subscription, no cloud. Your world stays on your device.",
+  "stars": 745,
+  "language": "Svelte",
+  "topics": [
+   "dnd",
+   "dungeons-and-dragons",
+   "knowledge-base",
+   "markdown",
+   "markdown-editor",
+   "notes",
+   "notes-app",
+   "pathfinder",
+   "rpg",
+   "rpg-tool",
+   "worldbuilding"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "thomascgray/fantasy-content-generator",
+  "url": "https://github.com/thomascgray/fantasy-content-generator",
+  "description": "Generate D&D 5E-flavoured fantasy content for your app, video game, website, etc.",
+  "stars": 69,
+  "language": "TypeScript",
+  "topics": [
+   "dnd",
+   "dnd-tools",
+   "dnd5e",
+   "rpg",
+   "rpg-tool"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "opendnd/opendnd",
+  "url": "https://github.com/opendnd/opendnd",
+  "description": "This is the main collection of OpenDnD Tools with generators for persons, dynasties, cities, towns, and more",
+  "stars": 206,
+  "language": "JavaScript",
+  "topics": [
+   "dnd",
+   "dnd-tools",
+   "dnd5e",
+   "dragons",
+   "dungeon",
+   "dungeons-and-dragons",
+   "generators",
+   "javascript",
+   "node-cli",
+   "nodejs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "kupka/libsrd5",
+  "url": "https://github.com/kupka/libsrd5",
+  "description": "A System Reference Document 5.1 (SRD) Implementation in C#.",
+  "stars": 24,
+  "language": "C#",
+  "topics": [
+   "dnd",
+   "dnd5e",
+   "dungeons-and-dragons",
+   "game",
+   "srd",
+   "srd5"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Coffee-fueled-deadlines/PyDnD",
+  "url": "https://github.com/Coffee-fueled-deadlines/PyDnD",
+  "description": "PyDnD is a Dungeons and Dragons SRD Library for Python3",
+  "stars": 35,
+  "language": "Python",
+  "topics": [
+   "dnd",
+   "dnd35",
+   "dungeons-and-dragons",
+   "pydnd",
+   "python",
+   "srd"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mrlegowatch/RolePlayingCore",
+  "url": "https://github.com/mrlegowatch/RolePlayingCore",
+  "description": "A Swift package for tabletop RPG character logic: species, classes, backgrounds, feats, ability scores, skills, spells, equipment and currency, loaded from JSON game data. Example data follows the SRD 5.2.1. Includes a SwiftUI character builder app for iOS and macOS. Built on SwiftDice.",
+  "stars": 40,
+  "language": "Swift",
+  "topics": [
+   "character-generator",
+   "character-sheet",
+   "ios",
+   "macos",
+   "rpg",
+   "srd",
+   "swift",
+   "swift-package",
+   "swiftui",
+   "tabletop",
+   "ttrpg"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "downfallx/dnd-5e-srd-markdown",
+  "url": "https://github.com/downfallx/dnd-5e-srd-markdown",
+  "description": "D&D 5e (2024) SRD 5.2.1 in Markdown - Complete 5th Edition reference with all classes, 500+ spells, 400+ monsters. Perfect for character builders, VTTs, and D&D apps",
+  "stars": 112,
+  "language": null,
+  "topics": [
+   "5e",
+   "5th-edition",
+   "dnd",
+   "dnd-2024",
+   "dnd5e",
+   "dungeons-and-dragons",
+   "game-development",
+   "markdown",
+   "monsters",
+   "obsidian",
+   "open-data",
+   "rpg",
+   "spells",
+   "srd",
+   "tabletop-rpg",
+   "ttrpg",
+   "vtt"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "vorpalhex/srd_spells",
+  "url": "https://github.com/vorpalhex/srd_spells",
+  "description": "A JSON formatted list of all the spells from the 5e SRD",
+  "stars": 147,
+  "language": "HTML",
+  "topics": [
+   "5e",
+   "dungeons-and-dragons",
+   "ogl",
+   "rpg",
+   "spells",
+   "srd"
+  ],
+  "archived": true
+ },
+ {
+  "full_name": "oldmanumby/dnd.srd.5.2.1",
+  "url": "https://github.com/oldmanumby/dnd.srd.5.2.1",
+  "description": "Dungeons & Dragons 5th Edition (2024) SRD v5.2.1 converted to Markdown.",
+  "stars": 15,
+  "language": null,
+  "topics": [
+   "2024",
+   "5e",
+   "dnd",
+   "dnd5e",
+   "dungeons-and-dragons",
+   "markdown",
+   "obsidian",
+   "obsidian-md",
+   "ogl",
+   "open-game-license",
+   "pdf",
+   "projects",
+   "publishing",
+   "srd",
+   "srd5",
+   "wizards-srd"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Miserlou/dnd-tldr",
+  "url": "https://github.com/Miserlou/dnd-tldr",
+  "description": "Dungeons and Dragons - Too Long; Didn't Read",
+  "stars": 687,
+  "language": null,
+  "topics": [
+   "character-sheet",
+   "dnd",
+   "dnd4e",
+   "dnd5e",
+   "dungeon-master",
+   "dungeons-and-dragons",
+   "hit-points",
+   "player-characters",
+   "tabletop-gaming"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "delmarle/RPG-Core",
+  "url": "https://github.com/delmarle/RPG-Core",
+  "description": "UNITY engine RPG framework",
+  "stars": 732,
+  "language": "C#",
+  "topics": [
+   "addressables",
+   "character",
+   "character-creation",
+   "core",
+   "dungeons-and-dragons",
+   "engine",
+   "fps",
+   "game",
+   "inventory",
+   "npcs",
+   "open",
+   "pokemon",
+   "rpg",
+   "rpg-maker",
+   "rpg-station",
+   "skills",
+   "tabletop",
+   "turn-based",
+   "unity",
+   "world"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "fvtt-fria-ligan/forbidden-lands-foundry-vtt",
+  "url": "https://github.com/fvtt-fria-ligan/forbidden-lands-foundry-vtt",
+  "description": "This is a Forbidden Lands game System for the Foundry Virtual Tabletop. Made by @Perfectro, @patrys and @aMediocreDad. Maintained by @Cussa",
+  "stars": 205,
+  "language": "JavaScript",
+  "topics": [
+   "foundry-vtt",
+   "free-league",
+   "fria-ligan",
+   "game",
+   "game-system",
+   "roleplaying-game",
+   "tabletop",
+   "virtual-tabletop",
+   "vtt",
+   "year-zero"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "bryancasler/Bryans-Preferred-Modules-for-FoundryVTT",
+  "url": "https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT",
+  "description": "My personally cultivated list of FoundryVTT Modules for Dungeons and Dragons 5e and Pathfinder 2e that play nicely together without creating an overwhelming amount of UI options or causing noticeable FPS drops.",
+  "stars": 142,
+  "language": "CSS",
+  "topics": [
+   "dnd5e",
+   "dungeons-and-dragons",
+   "foundry-vtt",
+   "foundryvtt",
+   "pathfinder",
+   "pathfinder2e",
+   "virtualtabletop"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Bogzx/bg3-agent-harness",
+  "url": "https://github.com/Bogzx/bg3-agent-harness",
+  "description": "An AI agent plays Baldur's Gate 3 on Linux through a Lua mod and an MCP server, seeing only what a player sees. Includes a model benchmark and a playthrough app.",
+  "stars": 35,
+  "language": "Python",
+  "topics": [
+   "agent-evaluation",
+   "agent-harness",
+   "ai-benchmark",
+   "baldurs-gate-3",
+   "claude",
+   "game-ai",
+   "linux-gaming",
+   "llm-agents",
+   "long-horizon-agents",
+   "lua",
+   "mcp",
+   "modding",
+   "model-context-protocol",
+   "python",
+   "script-extender"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Dominowood371/Pixel-Dungeon",
+  "url": "https://github.com/Dominowood371/Pixel-Dungeon",
+  "description": "List of mods from the game Pixel Dungeon",
+  "stars": 102,
+  "language": null,
+  "topics": [
+   "android",
+   "dungeon",
+   "dungeon-crawler",
+   "dungeon-crawler-game",
+   "mods",
+   "pixel-dungeon",
+   "pixeldungeon",
+   "roguelike",
+   "roguelike-dungeons",
+   "roguelike-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "arx/ArxLibertatis",
+  "url": "https://github.com/arx/ArxLibertatis",
+  "description": "Cross-platform port of Arx Fatalis, a first-person role-playing game",
+  "stars": 1121,
+  "language": "C++",
+  "topics": [
+   "arx-fatalis",
+   "c-plus-plus",
+   "cmake",
+   "cross-platform",
+   "dungeon-crawler",
+   "game",
+   "game-engine-3d",
+   "immersive-sim",
+   "opengl",
+   "role-playing-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "alexgaoth/awesome-reverse-engineered",
+  "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
+  "description": "Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly.",
+  "stars": 1466,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "awesome",
+   "awesome-list",
+   "claude-code",
+   "decompilation",
+   "file-formats",
+   "game-decompilation",
+   "game-preservation",
+   "hacktoberfest",
+   "home-assistant",
+   "interoperability",
+   "iot",
+   "local-control",
+   "mcp-server",
+   "open-source",
+   "protocol",
+   "reverse-engineered",
+   "reverse-engineering",
+   "unofficial-api"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "reacher-z/Awesome-REA",
+  "url": "https://github.com/reacher-z/Awesome-REA",
+  "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+  "stars": 3215,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "android-reverse-engineering",
+   "awesome",
+   "awesome-list",
+   "awesome-resources",
+   "binary-analysis",
+   "decompilation",
+   "firmware-analysis",
+   "game-reversing",
+   "ghidra",
+   "ios-reverse-engineering",
+   "javascript-deobfuscation",
+   "mcp",
+   "protocol-analysis",
+   "rea",
+   "research-papers",
+   "reverse-engineering",
+   "static-analysis",
+   "web-reverse-engineering"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "agluszak/wizardry-8-decomp",
+  "url": "https://github.com/agluszak/wizardry-8-decomp",
+  "description": "Faithful source reconstruction of Wizardry 8 (2001) from the original Windows binaries.",
+  "stars": 8,
+  "language": "C++",
+  "topics": [
+   "decompilation",
+   "game",
+   "recompilation",
+   "wizardry"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "davemoore22/sorcery",
+  "url": "https://github.com/davemoore22/sorcery",
+  "description": "An open source remake/remaster of the classic CRPG Wizardry, Proving Grounds of the Mad Overlord.",
+  "stars": 251,
+  "language": "C++",
+  "topics": [
+   "crpg",
+   "dungeon-crawler",
+   "wizardry"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "p-e-w/waidrin",
+  "url": "https://github.com/p-e-w/waidrin",
+  "description": "Next-generation AI roleplay system",
+  "stars": 396,
+  "language": "TypeScript",
+  "topics": [
+   "ai-creativity",
+   "llm",
+   "role-playing-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "AnyRPG/AnyRPGCore",
+  "url": "https://github.com/AnyRPG/AnyRPGCore",
+  "description": "Open source Role Playing Game engine for Unity 3D written in C#.",
+  "stars": 1038,
+  "language": "C#",
+  "topics": [
+   "game-development",
+   "games",
+   "role-playing-game",
+   "role-playing-game-system",
+   "role-playing-game-tool",
+   "rpg",
+   "unity",
+   "unity3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "microsoft/TextWorld",
+  "url": "https://github.com/microsoft/TextWorld",
+  "description": "\u200bTextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.",
+  "stars": 1466,
+  "language": "Jupyter Notebook",
+  "topics": [
+   "reinforcement-learning",
+   "text-based-adventure",
+   "text-based-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "princeton-nlp/calm-textgame",
+  "url": "https://github.com/princeton-nlp/calm-textgame",
+  "description": "[EMNLP 2020] Keep CALM and Explore: Language Models for Action Generation in Text-based Games",
+  "stars": 76,
+  "language": "Python",
+  "topics": [
+   "calm",
+   "gpt",
+   "n-gram",
+   "nlp",
+   "rl",
+   "text-based-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mudcoders/awesome-mud",
+  "url": "https://github.com/mudcoders/awesome-mud",
+  "description": "\ud83d\udda5 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",
+  "stars": 147,
+  "language": null,
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "development",
+   "mud",
+   "text-based-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "evennia/evennia",
+  "url": "https://github.com/evennia/evennia",
+  "description": "Python MUD/MUX/MUSH/MU* development system",
+  "stars": 2123,
+  "language": "Python",
+  "topics": [
+   "based",
+   "django",
+   "engine",
+   "game-development",
+   "game-engine",
+   "gamedev",
+   "hacktoberfest",
+   "moo",
+   "mud",
+   "multiplayer",
+   "mush",
+   "mux",
+   "python",
+   "text",
+   "text-based",
+   "text-based-adventure",
+   "twisted",
+   "webclient",
+   "webserver"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "stars": 188108,
+  "language": "Python",
+  "topics": [
+   "agentic-ai",
+   "agents",
+   "ai",
+   "artificial-intelligence",
+   "autonomous-agents",
+   "claude",
+   "gpt",
+   "llama-api",
+   "llm",
+   "openai",
+   "python"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "agentskills/agentskills",
+  "url": "https://github.com/agentskills/agentskills",
+  "description": "Specification and documentation for Agent Skills",
+  "stars": 27465,
+  "language": "Python",
+  "topics": [
+   "agent-skills"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "VoltAgent/awesome-openclaw-skills",
+  "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+  "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.\ud83e\udd9e",
+  "stars": 53875,
+  "language": null,
+  "topics": [
+   "agent-skills",
+   "awesome",
+   "awesome-list",
+   "awesome-lists",
+   "clawd",
+   "clawdbot",
+   "clawdbot-skill",
+   "clawdhub",
+   "moltbot",
+   "moltbot-skills",
+   "openclaw",
+   "openclaw-skills"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "stars": 71277,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-humanizer",
+   "ai-writing",
+   "chatgpt",
+   "claude",
+   "claude-code",
+   "codex",
+   "cursor",
+   "humanize-ai-text",
+   "humanizer",
+   "llm",
+   "prompt-engineering",
+   "writing-tools"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "stars": 197718,
+  "language": "Python",
+  "topics": [
+   "agent-skills"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "stars": 194866,
+  "language": "JavaScript",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "claude",
+   "claude-code",
+   "claude-code-plugin",
+   "cursor-rules",
+   "developer-tools",
+   "llm",
+   "prompt-engineering",
+   "yagni"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "VoltAgent/awesome-agent-skills",
+  "url": "https://github.com/VoltAgent/awesome-agent-skills",
+  "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+  "stars": 37360,
+  "language": null,
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "awesome-list",
+   "claude-code",
+   "claude-code-skills",
+   "claude-skills",
+   "codex",
+   "codex-skills",
+   "cursor",
+   "cursor-skills",
+   "gemini-skills",
+   "skills"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "stars": 119189,
+  "language": "JavaScript",
+  "topics": [
+   "agent-skills",
+   "antigravity",
+   "claude-code",
+   "codex",
+   "cursor",
+   "skills"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "stars": 322110,
+  "language": "Shell",
+  "topics": [
+   "ai",
+   "brainstorming",
+   "coding",
+   "obra",
+   "sdlc",
+   "skills",
+   "subagent-driven-development",
+   "superpowers"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "lemomo-ai/lemo-opuscar",
+  "url": "https://github.com/lemomo-ai/lemo-opuscar",
+  "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. \u00b7 \u4e00\u5957\u7528\u4ee3\u7801\u505a\u7247\u7684\u98ce\u683c\u5de5\u5177\u7bb1\uff1a99 \u79cd\u73b0\u6210\u98ce\u683c\uff0c\u4e5f\u80fd\u505a\u51fa\u4f60\u81ea\u5df1\u7684",
+  "stars": 18745,
+  "language": "JavaScript",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "ai-short-film",
+   "ai-video",
+   "animation",
+   "canvas",
+   "claude",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-code-skill",
+   "creative-coding",
+   "ffmpeg",
+   "filmmaking",
+   "motion-graphics",
+   "opus-5-5",
+   "prompt-library",
+   "text-to-speech",
+   "threejs",
+   "video-production",
+   "webgl"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
+  "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+  "description": "Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.",
+  "stars": 9584,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "awesome-list",
+   "bevy",
+   "claude-code",
+   "codex",
+   "cursor",
+   "game-dev",
+   "game-development",
+   "gamedev",
+   "gemini-cli",
+   "github-copilot",
+   "godot",
+   "kiro",
+   "phaser",
+   "roblox",
+   "skills",
+   "threejs",
+   "unity",
+   "unreal"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+  "stars": 79610,
+  "language": "Python",
+  "topics": [
+   "agents",
+   "ai",
+   "ai-agents",
+   "ai-engineering",
+   "computer-vision",
+   "course",
+   "deep-learning",
+   "dsh",
+   "from-scratch",
+   "generative-ai",
+   "llm",
+   "machine-learning",
+   "mcp",
+   "python",
+   "rea",
+   "reinforcement-learning",
+   "rust",
+   "transformers",
+   "tutorial",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "farion1231/cc-switch",
+  "url": "https://github.com/farion1231/cc-switch",
+  "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+  "stars": 155816,
+  "language": "Rust",
+  "topics": [
+   "ai-tools",
+   "claude-code",
+   "codex",
+   "deepseek-harness",
+   "desktop-app",
+   "grok",
+   "grokbuild",
+   "hermes",
+   "kimi-code",
+   "mcp",
+   "open-source",
+   "opencode",
+   "pi",
+   "provider-management",
+   "rust",
+   "skills",
+   "skills-management",
+   "tauri",
+   "wsl-support"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "stars": 470058,
+  "language": "TypeScript",
+  "topics": [
+   "agent-skills",
+   "ai",
+   "android",
+   "claude-code",
+   "cli",
+   "cpp",
+   "dsh-plugin",
+   "html",
+   "java",
+   "javascript",
+   "linux",
+   "mcp",
+   "nodejs",
+   "python",
+   "rea",
+   "react",
+   "rust",
+   "security",
+   "touhou",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "veloren/veloren",
+  "url": "https://github.com/veloren/veloren",
+  "description": "[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",
+  "stars": 7705,
+  "language": "Rust",
+  "topics": [
+   "3d",
+   "cube",
+   "cubeworld",
+   "game",
+   "gfx-rs",
+   "multiplayer",
+   "procedural-generation",
+   "rpg",
+   "rust",
+   "terrain",
+   "voxel"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "bernardosulzbach/dungeon",
+  "url": "https://github.com/bernardosulzbach/dungeon",
+  "description": "Text-based open-world RPG made with Java",
+  "stars": 153,
+  "language": "Java",
+  "topics": [
+   "game",
+   "java",
+   "open-world",
+   "role-playing-game",
+   "text-based"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "trimstray/the-book-of-secret-knowledge",
+  "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+  "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+  "stars": 259776,
+  "language": null,
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "bsd",
+   "cheatsheets",
+   "devops",
+   "guidelines",
+   "hacking",
+   "hacks",
+   "howtos",
+   "linux",
+   "lists",
+   "manuals",
+   "one-liners",
+   "pentesters",
+   "resources",
+   "search-engines",
+   "security",
+   "security-researchers",
+   "sysops"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "vinta/awesome-python",
+  "url": "https://github.com/vinta/awesome-python",
+  "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+  "stars": 335914,
+  "language": "Python",
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "python",
+   "python-frameworks",
+   "python-libraries",
+   "python-tools"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "awesome-selfhosted/awesome-selfhosted",
+  "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+  "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+  "stars": 338704,
+  "language": null,
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "cloud",
+   "free-software",
+   "hosting",
+   "privacy",
+   "self-hosted",
+   "selfhosted"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "codecrafters-io/build-your-own-x",
+  "url": "https://github.com/codecrafters-io/build-your-own-x",
+  "description": "Master programming by recreating your favorite technologies from scratch.",
+  "stars": 563964,
+  "language": "Markdown",
+  "topics": [
+   "awesome-list",
+   "free",
+   "programming",
+   "tutorial-code",
+   "tutorial-exercises",
+   "tutorials"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "OpenMontageInc/OpenMontage",
+  "url": "https://github.com/OpenMontageInc/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "stars": 81768,
+  "language": "Python",
+  "topics": [
+   "agent",
+   "agentic-ai",
+   "ai",
+   "claude",
+   "copilot",
+   "cursor",
+   "elevenlabs",
+   "ffmpeg",
+   "flux",
+   "image-generation",
+   "open-source",
+   "openai",
+   "python",
+   "remotion",
+   "stable-diffusion",
+   "text-to-speech",
+   "text-to-video",
+   "video-generation",
+   "video-production"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "description": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "stars": 40220,
+  "language": "Shell",
+  "topics": [
+   "ai-agents",
+   "ai-assisted-development",
+   "anthropic",
+   "claude",
+   "claude-code",
+   "game-design",
+   "game-development",
+   "gamedev",
+   "godot",
+   "indie-game-dev",
+   "unity",
+   "unreal-engine"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "HotpotDesign/Game-Assets-And-Resources",
+  "url": "https://github.com/HotpotDesign/Game-Assets-And-Resources",
+  "description": "Free and paid game assets and game resources for 2D games, 3D games,  mobile games, Steam games, Unity games, and other games.",
+  "stars": 730,
+  "language": null,
+  "topics": [
+   "android-game",
+   "game-2d",
+   "game-assets",
+   "game-dev",
+   "game-development",
+   "gamedev",
+   "games",
+   "ios-game",
+   "mobile-game",
+   "mobile-games",
+   "steam",
+   "steam-game",
+   "steam-games",
+   "unity",
+   "unity-3d",
+   "unity2d",
+   "unity2d-game",
+   "unity3d",
+   "unity3d-game",
+   "unity3d-games"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "scenario-labs/blender-plugin",
+  "url": "https://github.com/scenario-labs/blender-plugin",
+  "description": "Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later.",
+  "stars": 1058,
+  "language": "Python",
+  "topics": [
+   "3d-models",
+   "agentic-ai",
+   "ai-agents",
+   "ai-art",
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "game-assets",
+   "generative-ai",
+   "image-generation",
+   "mcp",
+   "mcp-server",
+   "pbr",
+   "python",
+   "text-to-3d",
+   "text-to-image",
+   "text-to-video",
+   "textures"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "rehan-remade/universal-modder",
+  "url": "https://github.com/rehan-remade/universal-modder",
+  "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+  "stars": 9796,
+  "language": "Python",
+  "topics": [
+   "age-of-empires",
+   "claude-code",
+   "claude-code-plugin",
+   "fal",
+   "game-assets",
+   "game-modding",
+   "mcp",
+   "modding",
+   "reverse-engineering",
+   "tmodloader"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "agmmnn/awesome-blender",
+  "url": "https://github.com/agmmnn/awesome-blender",
+  "description": "\ud83e\ude90 A curated list of awesome Blender add-ons, AI/MCP tools, tutorials, and 3D resources.",
+  "stars": 7693,
+  "language": "TypeScript",
+  "topics": [
+   "3d",
+   "3d-models",
+   "awesome",
+   "awesome-list",
+   "blender",
+   "blender-addon",
+   "blender-extension",
+   "blender-python",
+   "blender-scripts",
+   "blender3d",
+   "gamedev",
+   "list"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "scenario-labs/skills",
+  "url": "https://github.com/scenario-labs/skills",
+  "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+  "stars": 3915,
+  "language": "Python",
+  "topics": [
+   "3d-models",
+   "agent-skills",
+   "ai-agents",
+   "ai-art",
+   "blender",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "game-assets",
+   "game-development",
+   "generative-ai",
+   "image-generation",
+   "maya",
+   "mcp",
+   "model-context-protocol",
+   "skills-sh",
+   "unity",
+   "unreal-engine",
+   "video-generation",
+   "zbrush"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "monstercameron/Neural-Sight",
+  "url": "https://github.com/monstercameron/Neural-Sight",
+  "description": "A first-person browser experiment with Gaussian-splat worlds and generated screen-space weapon footage.",
+  "stars": 2,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "SihanXU/openworld",
+  "url": "https://github.com/SihanXU/openworld",
+  "description": "OpenWorld RPG: a pixel-art open-world RPG in the browser, with the engine and editor it is built on. The world's rules are data; a language model can add new ones at runtime.",
+  "stars": 131,
+  "language": "TypeScript",
+  "topics": [
+   "browser-game",
+   "game-engine",
+   "open-world",
+   "pixel-art",
+   "rpg"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "OpenDCAI/GameFactory-3A",
+  "url": "https://github.com/OpenDCAI/GameFactory-3A",
+  "description": "A comprehensive open-source 3A game-generation skill and asset framework.",
+  "stars": 1337,
+  "language": "Python",
+  "topics": [
+   "3a-game",
+   "3a-game-generation",
+   "3d-generation",
+   "audio-generation",
+   "blender",
+   "cg-video-generation",
+   "image-generation",
+   "motion-generation",
+   "three-js",
+   "unity3d",
+   "unreal-engine"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ooolabdev/ooosplat",
+  "url": "https://github.com/ooolabdev/ooosplat",
+  "description": "A local desktop app that turns videos and images into 3D Gaussian Splats in one click.",
+  "stars": 2570,
+  "language": "Rust",
+  "topics": [
+   "3d",
+   "gaussian-splatting"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ZiYang-xie/WorldGen",
+  "url": "https://github.com/ZiYang-xie/WorldGen",
+  "description": "\ud83c\udf0d WorldGen - Generate Any 3D Scene in Seconds",
+  "stars": 2222,
+  "language": "Python",
+  "topics": [
+   "3d-generation",
+   "3d-reconstruction",
+   "generative-ai",
+   "graphics",
+   "image-to-3d",
+   "scene-generation",
+   "text-to-3d",
+   "worldgen",
+   "worldmodel"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "imlixinyang/FlashWorld",
+  "url": "https://github.com/imlixinyang/FlashWorld",
+  "description": "Code for \"FlashWorld: High-quality 3D Scene Generation within Seconds\" (ICLR 2026 Oral)",
+  "stars": 882,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/Hy-Nomas",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+  "description": "Hy-Nomas: Towards Free-form Interactive World Generation",
+  "stars": 596,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "SkyworkAI/Matrix-3D",
+  "url": "https://github.com/SkyworkAI/Matrix-3D",
+  "description": "Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt.",
+  "stars": 854,
+  "language": "Python",
+  "topics": [
+   "3d-generation",
+   "3d-reconstruction",
+   "3d-scene-generation",
+   "aigc",
+   "aigc3d",
+   "genie",
+   "genie3",
+   "graphics",
+   "image-to-3d",
+   "image-to-video",
+   "panorama-synthesis",
+   "scene-generation",
+   "text-to-3d",
+   "text-to-video",
+   "video-generation",
+   "world-models"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "timscheuerai/worldsplat",
+  "url": "https://github.com/timscheuerai/worldsplat",
+  "description": "Open-source text-to-3D world generation. One command turns a text prompt into a navigable Gaussian Splat scene. An open-source alternative to World Labs Marble.",
+  "stars": 8,
+  "language": "Python",
+  "topics": [
+   "3d-generation",
+   "3d-reconstruction",
+   "computer-vision",
+   "deep-learning",
+   "gaussian-splatting",
+   "nerf",
+   "text-to-3d"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/HY-World-2.0",
+  "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+  "description": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+  "stars": 2884,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "ai",
+   "worldmodel"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tencent-Hunyuan/HunyuanWorld-1.0",
+  "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0",
+  "description": "Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model",
+  "stars": 2979,
+  "language": "Python",
+  "topics": [
+   "3d",
+   "3d-generation",
+   "aigc",
+   "hunyuan3d",
+   "image-to-3d",
+   "scene-generation",
+   "text-to-3d",
+   "world-model",
+   "world-models"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mmlong818/filmgame",
+  "url": "https://github.com/mmlong818/filmgame",
+  "description": "\u9762\u5411\u7f16\u5267\u7684 AI \u4e92\u52a8\u5f71\u6e38\u521b\u4f5c\u7cfb\u7edf \u00b7 AI-assisted interactive film game authoring",
+  "stars": 111,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "BeatAPI/BeatDesign",
+  "url": "https://github.com/BeatAPI/BeatDesign",
+  "description": "Local-first AI canvas and timeline. Any MCP agent. Open-source alternative to Higgsfield.",
+  "stars": 369,
+  "language": "TypeScript",
+  "topics": [
+   "ai-canvas",
+   "ai-image-generation",
+   "ai-video-generation",
+   "beatapi",
+   "canvas",
+   "generative-ai",
+   "image-generation",
+   "local-first",
+   "mcp",
+   "mcp-server",
+   "open-source",
+   "react",
+   "video-editor",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Lightricks/LTX-Desktop",
+  "url": "https://github.com/Lightricks/LTX-Desktop",
+  "description": "An open-source desktop app for generating videos with LTX models",
+  "stars": 2304,
+  "language": "Python",
+  "topics": [
+   "generative-ai",
+   "ltx",
+   "ltx-2",
+   "non-linear-editing"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "SegFault42/HeliosGen",
+  "url": "https://github.com/SegFault42/HeliosGen",
+  "description": "\ud83c\udfc6 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
+  "stars": 3432,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "wide-trace/open-higgsfield",
+  "url": "https://github.com/wide-trace/open-higgsfield",
+  "description": "A studio for image and video generation \u2014 one prompt bar, each model\u2019s own settings, and every finished run in one gallery.",
+  "stars": 6400,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Anil-matcha/Open-Generative-AI",
+  "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "description": "Uncensored Open-source alternative to AI video platforms \u2014 Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+  "stars": 35432,
+  "language": "JavaScript",
+  "topics": [
+   "ai-image-generation",
+   "ai-video-generation",
+   "fal-ai-alternative",
+   "generative-ai",
+   "image-to-video",
+   "invideo-alternative",
+   "kling-ai",
+   "lipsync",
+   "litellm-alternative",
+   "midjourney-alternative",
+   "muapi",
+   "open-source",
+   "openrouter-alternative",
+   "seedance2",
+   "sora-alternative",
+   "text-to-image",
+   "text-to-video",
+   "uncensored",
+   "uncensored-ai-image-video-generator",
+   "wan-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "obaidiDev/openfield",
+  "url": "https://github.com/obaidiDev/openfield",
+  "description": "The Higgsfield Blender MCP stack, modified to be local-first: self-hosted gateway so the add-on runs on your own models (ComfyUI / provider keys / local commands) \u2014 no account, no credits.",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "viriato68/open-studio-for-affinity",
+  "url": "https://github.com/viriato68/open-studio-for-affinity",
+  "description": "Free, local AI editing for Affinity, powered by ComfyUI.",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "affinity",
+   "comfyui",
+   "flux-kontext",
+   "generative-ai",
+   "mcp",
+   "opensourcehiggsfield",
+   "stable-diffusion"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "crystalattice/CBI_RenderRepo",
+  "url": "https://github.com/crystalattice/CBI_RenderRepo",
+  "description": "Local-first workflow and dependency manager for ComfyUI. Discover, inspect, install, and open workflows while reusing local models and reviewing proposed changes before installation.",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "welski3/framecommander",
+  "url": "https://github.com/welski3/framecommander",
+  "description": "Runninghub H3 Wrapper",
+  "stars": 2,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "mhaihq/hana-comfy-hack",
+  "url": "https://github.com/mhaihq/hana-comfy-hack",
+  "description": null,
+  "stars": 2,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "HomoLapis/justae-flow",
+  "url": "https://github.com/HomoLapis/justae-flow",
+  "description": "ComfyUI inside the open-source EffectCraft. Your workflows, any model, on your timeline",
+  "stars": 7,
+  "language": "TypeScript",
+  "topics": [
+   "after-effects",
+   "after-effects-plugin",
+   "comfyui",
+   "effectcraft",
+   "effectcraft-plugin",
+   "ltx-2-3",
+   "ltx-2-5",
+   "ltx-video",
+   "minimax-h3",
+   "open-weights",
+   "opensourcehiggsfield",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "doubletwisted/ComfyUI-Spool",
+  "url": "https://github.com/doubletwisted/ComfyUI-Spool",
+  "description": "A video timeline for ComfyUI. Queue workflows per clip, review generated takes, and assemble a sequence.",
+  "stars": 13,
+  "language": "JavaScript",
+  "topics": [
+   "ai-filmmaking",
+   "ai-video",
+   "comfyui",
+   "comfyui-custom-nodes",
+   "davinci-resolve",
+   "ltx",
+   "minimax-h3",
+   "opensourcehiggsfield",
+   "opentimelineio",
+   "timeline",
+   "video-editor"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "FrameDeptCo/freavy",
+  "url": "https://github.com/FrameDeptCo/freavy",
+  "description": "Free, local-first node canvas for AI image and video generation on top of ComfyUI.",
+  "stars": 9,
+  "language": "TypeScript",
+  "topics": [
+   "ai",
+   "comfyui",
+   "node-editor",
+   "opensourcehiggsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "kubakubkub/ComfyUI_KubaNodes",
+  "url": "https://github.com/kubakubkub/ComfyUI_KubaNodes",
+  "description": "kubakub nodes for ComfyUI: projection mapping with regions, per-region diffusion, the director window, video and 3D scene tools",
+  "stars": 16,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Soussa4535/SoulPersonEnhance",
+  "url": "https://github.com/Soussa4535/SoulPersonEnhance",
+  "description": "Enhance each person in a photo on her own, or only the ones you pick. Two custom ComfyUI nodes, open weights, 100% local.",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ZhuEvgeny/Character-lock-comfy",
+  "url": "https://github.com/ZhuEvgeny/Character-lock-comfy",
+  "description": null,
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "0xMisterBailey/Boson",
+  "url": "https://github.com/0xMisterBailey/Boson",
+  "description": "Studios instead of presets: your taste as plain files in git that every next ComfyUI round obeys",
+  "stars": 3,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "comfyui-custom-nodes",
+   "open-weights",
+   "opensourcehiggsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "fixed-42/comfyui-sameface",
+  "url": "https://github.com/fixed-42/comfyui-sameface",
+  "description": "Comfyui custom node that measures where an image edit moves the parts of a face, and move them back. Open weights, runs locally.",
+  "stars": 14,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "comfyui-custom-node",
+   "comfyui-nodes",
+   "comfyui-workflow",
+   "computer-vision",
+   "grounding-dino",
+   "image-editing",
+   "optical-flow",
+   "photo-restoration",
+   "pytorch",
+   "raft",
+   "segment-anything"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "moonz-1/open-ad-studio",
+  "url": "https://github.com/moonz-1/open-ad-studio",
+  "description": "Open Ad Studio \u2014 open-source AI creative agency on ComfyUI for Open Source Higgsfield",
+  "stars": 2,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "jk-automations/urban-cuts",
+  "url": "https://github.com/jk-automations/urban-cuts",
+  "description": "Open-source ComfyUI App Mode clone of Higgsfield Urban Cuts: photo + outfits/products + music -> beat-cut looping 9:16 reel",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "comfyui-app",
+   "open-source-higgsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "vidyabharadwaj03/reelmatch",
+  "url": "https://github.com/vidyabharadwaj03/reelmatch",
+  "description": "Reelmatch: describe a campaign, drop in photos, get a UGC-style ad draft. Matches each brief to the right video model and shows why. Built for the Comfy Open Source Higgsfield build night.",
+  "stars": 3,
+  "language": "Python",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "open-source",
+   "ugc"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "jhoard/open-ads-studio",
+  "url": "https://github.com/jhoard/open-ads-studio",
+  "description": "Open-weights rebuild of Higgsfield Ads Studio. Label-exact, compliance-checked product ads via ComfyUI workflows on LTX-2 and MiniMax H3. #OpenSourceHiggsfield",
+  "stars": 6,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ergophobian/comfyfield",
+  "url": "https://github.com/ergophobian/comfyfield",
+  "description": null,
+  "stars": 5,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "GiveMePrompts/crew-cut",
+  "url": "https://github.com/GiveMePrompts/crew-cut",
+  "description": "A party game that makes a movie. Phones become characters, friends direct scenes, the TV premieres the film. ComfyUI + Comfy SDK, open weights, runs on a MacBook. #OpenSourceHiggsfield",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [
+   "comfy-sdk",
+   "comfyui",
+   "flux",
+   "ltx-video",
+   "opensourcehiggsfield",
+   "party-game"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Nemont3/cat-tapes",
+  "url": "https://github.com/Nemont3/cat-tapes",
+  "description": " One cat. One evening. One tape. Lofi VHS cat home videos, made locally with LTX-2.5 + ACE-Step on ComfyUI, open weights.",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "ace-step",
+   "cats",
+   "comfyui",
+   "ltx-video",
+   "opensourcehiggsfield",
+   "vhs",
+   "vhs-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "DialloWill/storyboard-studio",
+  "url": "https://github.com/DialloWill/storyboard-studio",
+  "description": "Open-source rebuild of Higgsfield's Cinema Studio for music-video storyboards. Flask + ComfyUI. #OpenSourceHiggsfield",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "flask",
+   "generative-ai",
+   "higgsfield",
+   "music-video",
+   "open-source",
+   "python",
+   "storyboard"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Editorenbici/leafreel",
+  "url": "https://github.com/Editorenbici/leafreel",
+  "description": "Turn any document into a narrated explainer video in 8 visual styles. Open weights, ComfyUI + Comfy SDK, two nodes, zero cloud. #OpenSourceHiggsfield",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "comfy-sdk",
+   "comfyui",
+   "education",
+   "explainer-video",
+   "flux",
+   "hermes-agent",
+   "ltx-video",
+   "mcp",
+   "open-weights",
+   "opensourcehiggsfield",
+   "qwen",
+   "text-to-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "spiritform/herosjourney",
+  "url": "https://github.com/spiritform/herosjourney",
+  "description": "Generative AI Monomyth as an experience. Become someone, find your place, cross the threshold\u2026",
+  "stars": 2,
+  "language": "JavaScript",
+  "topics": [
+   "ai-video",
+   "character-design",
+   "comfy",
+   "comfy-cloud",
+   "comfyui",
+   "creative-tools",
+   "generative-ai",
+   "image-generation",
+   "nano-banana",
+   "seedance"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "tysonfarrington-cmyk/xenoform",
+  "url": "https://github.com/tysonfarrington-cmyk/xenoform",
+  "description": "Song in, music video out, on your own GPU. Open weights only, through the Comfy SDK. #OpenSourceHiggsfield entry.",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "smithysw7/openreel",
+  "url": "https://github.com/smithysw7/openreel",
+  "description": "One logline in, a character-consistent short film out. Open-source AI short-film studio rebuilt on ComfyUI \u2014 storyboard, AI casting, shots, assembled cut. Runs fully local on open weights (Z-Image Turbo + MiniMax H3). Open Source Higgsfield entry.",
+  "stars": 3,
+  "language": "TypeScript",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "film-generation",
+   "open-weights",
+   "text-to-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "thaohienhomes/oneliner",
+  "url": "https://github.com/thaohienhomes/oneliner",
+  "description": "Oneliner: type one line, get a cinematic AI trailer. Comfy Cloud + LTX + ffmpeg.wasm. #OpenSourceHiggsfield",
+  "stars": 3,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "bgstratt/seriesmith",
+  "url": "https://github.com/bgstratt/seriesmith",
+  "description": null,
+  "stars": 7,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "hodgemann/mondo-music-video",
+  "url": "https://github.com/hodgemann/mondo-music-video",
+  "description": "Turn a song into a music video. Beat-aware shot planning, LLM-written prompts, local or hosted rendering, actors that dance, lip-sync and play instruments, Worlds, storyboards, and frame-exact assembly with your original audio. Agent-installable, with MCP tools and Open Actor/Prop Protocols.",
+  "stars": 18,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-video",
+   "cinematography",
+   "comfyui",
+   "mcp",
+   "music-video",
+   "open-actor-protocol",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "chenthedesignmaker/ComfyUI-Picky",
+  "url": "https://github.com/chenthedesignmaker/ComfyUI-Picky",
+  "description": "Render it ten ways, keep the one you love. An open-weights film studio for MiniMax H3 in ComfyUI: takes, lineage, cast and an agent skill.",
+  "stars": 43,
+  "language": "Python",
+  "topics": [
+   "agent-skill",
+   "ai-filmmaking",
+   "comfyui",
+   "comfyui-nodes",
+   "minimax",
+   "minimax-h3",
+   "open-weights",
+   "opensourcehiggsfield",
+   "text-to-video",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "mahdi-salmanzade/toybox-director",
+  "url": "https://github.com/mahdi-salmanzade/toybox-director",
+  "description": "Block your shot with toys on a 3D stage, then render it with open-weight LTX video in your own ComfyUI. Open-source, local-first.",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "filmmaking",
+   "ltx-video",
+   "open-source-higgsfield",
+   "open-weights",
+   "react",
+   "threejs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "soft-jelly/shotcheck",
+  "url": "https://github.com/soft-jelly/shotcheck",
+  "description": "CPU-only ComfyUI camera-motion checker (Comfy SDK): MATCH, MISMATCH, or honest INCONCLUSIVE",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "bolttmade/shot-director",
+  "url": "https://github.com/bolttmade/shot-director",
+  "description": "Free previs, then one real render: an open-source camera-move studio for Comfy workflows (presets, coverage board, A/B, reel export). Real clips labelled; the rest simulated.",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "opensourcehiggsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "MVOlekhno/previz2shot",
+  "url": "https://github.com/MVOlekhno/previz2shot",
+  "description": "Blender grey playblast \u2192 FLUX.2 Klein 4B \u2192 LTX-2.5 Layout-to-Render. Open weights. #OpenSourceHiggsfield",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ylchen333/comfy-dial",
+  "url": "https://github.com/ylchen333/comfy-dial",
+  "description": "for comfy's open source Higgsfield challenge",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "kyungmin-cho/shot-board",
+  "url": "https://github.com/kyungmin-cho/shot-board",
+  "description": "Write one scene, get six shots. Pick a hero take and the app redraws cuts from it. Open-weight SDXL and Qwen-Image-Edit in ComfyUI via the Comfy SDK.",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "archived": true
+ },
+ {
+  "full_name": "LaytonGott/open-cinema",
+  "url": "https://github.com/LaytonGott/open-cinema",
+  "description": "Direct a shot, then change the lens afterwards: LTX-2 video + physically based depth of field (Open Optics ComfyUI node pack). #OpenSourceHiggsfield",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "junco3/motion-guard",
+  "url": "https://github.com/junco3/motion-guard",
+  "description": "Checks AI video against its 3D motion reference before an expensive upscale - ComfyUI / LTX (#OpenSourceHiggsfield)",
+  "stars": 2,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "pyoonpyoon/open-higgsfield",
+  "url": "https://github.com/pyoonpyoon/open-higgsfield",
+  "description": "Open-source Higgsfield Reshoot: a 3D virtual film set that re-shoots any photo from any angle and adds cinematic camera moves. Open weights on ComfyUI. #OpenSourceHiggsfield",
+  "stars": 5,
+  "language": "TypeScript",
+  "topics": [
+   "comfyui",
+   "ltx-video",
+   "nextjs",
+   "opensourcehiggsfield",
+   "qwen-image-edit",
+   "threejs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "apsolut/one-shot-multicam",
+  "url": "https://github.com/apsolut/one-shot-multicam",
+  "description": "Multicam from one phone shot \u2014 turn a single selfie video into a multi-camera edit with ComfyUI + LTX-2.3 ID LoRA (open weights). #OpenSourceHiggsfield",
+  "stars": 5,
+  "language": "Python",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "ltx-video",
+   "multicam",
+   "open-source-higgsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "metababe-eth/hero-frame-rig",
+  "url": "https://github.com/metababe-eth/hero-frame-rig",
+  "description": "Direct the focus of any clip after it's made. Open-weights, ComfyUI local or Cloud. #OpenSourceHiggsfield",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "EmmanuelRiveros/TimeFlight",
+  "url": "https://github.com/EmmanuelRiveros/TimeFlight",
+  "description": "Drone flights over real places that turn back time: open geodata + era geometry + depth-guided LTX-2.5 in ComfyUI. Hero: Mexico City to Tenochtitlan, 1519.",
+  "stars": 5,
+  "language": "Python",
+  "topics": [
+   "blender",
+   "comfyui",
+   "historical-reconstruction",
+   "ltx-video",
+   "opensourcehiggsfield",
+   "openstreetmap"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Tekholms-LW/ReAngle",
+  "url": "https://github.com/Tekholms-LW/ReAngle",
+  "description": "Open-source re-shoot: change the camera angle of any video with ComfyUI + LTX-2.5 (local 16GB or Comfy Cloud). #OpenSourceHiggsfield",
+  "stars": 26,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "ltx-video",
+   "novel-view-synthesis",
+   "open-source-higgsfield",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Alvinvision/360-Scout-to-Film-Consistency",
+  "url": "https://github.com/Alvinvision/360-Scout-to-Film-Consistency",
+  "description": "Camera-controlled 360 location references and multi-shot AI video inside ComfyUI. Open Source Higgsfield submission.",
+  "stars": 7,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "navarisun1982/comfyui-motion-previs-studio",
+  "url": "https://github.com/navarisun1982/comfyui-motion-previs-studio",
+  "description": "Open-source 3D camera, character & motion previs studio replacing Higgsfield 3D-Jutsu for AI video.",
+  "stars": 59,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Kainotomic/one-take-vfx",
+  "url": "https://github.com/Kainotomic/one-take-vfx",
+  "description": null,
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "audriu/fxjutsu",
+  "url": "https://github.com/audriu/fxjutsu",
+  "description": "Open-source Higgsfield-style VFX presets on your own footage, powered by LTX-2.5 on the Comfy Developer Platform",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "jamiejk/earthfall",
+  "url": "https://github.com/jamiejk/earthfall",
+  "description": "A web app to make 8-10 sec videos featuring a dive from orbit to your character & place. Created with ComfyUI and 100% open models.",
+  "stars": 3,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "higgsfield"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Orazen/conjure",
+  "url": "https://github.com/Orazen/conjure",
+  "description": null,
+  "stars": 2,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "okkazoo/MOTNGRFX",
+  "url": "https://github.com/okkazoo/MOTNGRFX",
+  "description": "Open-weights kinetic-type motion graphics: a ComfyUI node pack + browser app (Gemma 4, LTX 2.5, ACE-Step, MOSS)",
+  "stars": 4,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "marciano71/forkfield",
+  "url": "https://github.com/marciano71/forkfield",
+  "description": "Fork any video. Higgsfield-style effects on ComfyUI where every clip carries its own recipe. Open weights: Qwen-Image-Edit + LTX-2.5. #OpenSourceHiggsfield",
+  "stars": 3,
+  "language": "JavaScript",
+  "topics": [
+   "comfyui",
+   "ltx",
+   "open-source",
+   "opensourcehiggsfield",
+   "qwen-image-edit",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "TusharTechs/platelock",
+  "url": "https://github.com/TusharTechs/platelock",
+  "description": "Add the VFX. Keep the shot. Plate-preserving generative VFX for ComfyUI + LTX-2.3 (open weights). #OpenSourceHiggsfield",
+  "stars": 6,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "comfyui-nodes",
+   "compositing",
+   "generative-ai",
+   "ltx-video",
+   "open-source-higgsfield",
+   "vfx"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "chinesepowered/hack-comfy",
+  "url": "https://github.com/chinesepowered/hack-comfy",
+  "description": null,
+  "stars": 5,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "thekhoma/pickups",
+  "url": "https://github.com/thekhoma/pickups",
+  "description": "Pickups is a free, open source video app that runs on top of ComfyUI. Pick a shot, change the weather, the lighting, or what's in the frame, and get the same shot back with just that change. Works on your own computer.",
+  "stars": 12,
+  "language": "Python",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "ltx",
+   "open-source",
+   "video-editing"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "neuregex/freefield",
+  "url": "https://github.com/neuregex/freefield",
+  "description": "Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every model open weights; runs on Modal or your own GPU",
+  "stars": 1628,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "higgsfield",
+   "image-generation",
+   "ltx-video",
+   "modal",
+   "open-weights",
+   "vfx",
+   "video-generation",
+   "wan2"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "phatstraws/freefield",
+  "url": "https://github.com/phatstraws/freefield",
+  "description": "Higgsfield-style video effects as ComfyUI workflows. Open weights, runs on your own GPU.",
+  "stars": 13,
+  "language": "Python",
+  "topics": [
+   "comfy-sdk",
+   "comfyui",
+   "open-weights",
+   "opensourcehiggsfield",
+   "video-effects"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Zitroffi/comfyui-element-forge",
+  "url": "https://github.com/Zitroffi/comfyui-element-forge",
+  "description": "AI VFX elements for your own footage in ComfyUI: LTX-2.5 generates fire, lightning, smoke or particles; Element Forge tracks, lights and layers them into the shot. Open weights, runs locally.",
+  "stars": 16,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Burgstall-labs/ComfyUI-SpEdE",
+  "url": "https://github.com/Burgstall-labs/ComfyUI-SpEdE",
+  "description": "SpEdE, the Splat Edit Engine: click an object in a Gaussian splat, then Remove, Replace or Extract it. Local ComfyUI nodes + web Studio, open weights only. #OpenSourceHiggsfield",
+  "stars": 42,
+  "language": "Python",
+  "topics": [
+   "3d-editing",
+   "3dgs",
+   "comfyui",
+   "comfyui-nodes",
+   "gaussian-splatting",
+   "open-weights",
+   "opensourcehiggsfield",
+   "qwen-image",
+   "sam"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "jdnichollsc/seam",
+  "url": "https://github.com/jdnichollsc/seam",
+  "description": " Two shots in, one transition out. Open-source AI video transitions (smoke, water bend, whip pan) from a first and last image, rendered on your own GPU with open-weights LTX models via ComfyUI + the Comfy SDK. Web app, CLI and a AI agent plugin.",
+  "stars": 26,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "generative-ai",
+   "ltx-video",
+   "mcp",
+   "open-source-higgsfield",
+   "threejs",
+   "video-transitions"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "stellartune-studio/vision-orchestrator",
+  "url": "https://github.com/stellartune-studio/vision-orchestrator",
+  "description": null,
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "designn2future/hoodsfield-ai",
+  "url": "https://github.com/designn2future/hoodsfield-ai",
+  "description": "Open-source, local-first AI film studio built on ComfyUI. Idea in, finished video out: script, images, video, lip-sync, timeline editing, upscaling and seamless study/lofi loops. Runs on your own GPU. Optional Claude assistant.",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "baney75/hildegard",
+  "url": "https://github.com/baney75/hildegard",
+  "description": "Your own AI studio on your own GPU: AI video, voice, characters and 3D, local and private. A free, open source alternative to Higgsfield and ElevenLabs, with an MCP server for your AI apps.",
+  "stars": 3,
+  "language": "TypeScript",
+  "topics": [
+   "ai-studio",
+   "ai-video",
+   "comfyui",
+   "elevenlabs-alternative",
+   "generative-ai",
+   "gpu",
+   "higgsfield-alternative",
+   "local-ai",
+   "ltx-video",
+   "mcp",
+   "mcp-server",
+   "open-source-alternative",
+   "privacy",
+   "self-hosted",
+   "tauri",
+   "text-to-speech",
+   "text-to-video",
+   "video-generation",
+   "voice-cloning",
+   "wan-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "IBFolding/haggs",
+  "url": "https://github.com/IBFolding/haggs",
+  "description": "Open-source film studio on Comfy: script to screen, every shot and price in the open. Built for Comfy's #OpenSourceHiggsfield challenge.",
+  "stars": 4,
+  "language": "HTML",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Niutonian/Comfyui_Darius_OS",
+  "url": "https://github.com/Niutonian/Comfyui_Darius_OS",
+  "description": null,
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "MachineLearningAmateur/cinestudio",
+  "url": "https://github.com/MachineLearningAmateur/cinestudio",
+  "description": "a studio that leverages comfyui to better control scenes rendered with LTX 2.5",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "norioversoul/susano",
+  "url": "https://github.com/norioversoul/susano",
+  "description": "An open-weights creative studio on ComfyUI: Openjutsu, Tsukuyomi, Cinematic and Influencer, one cast across apps.",
+  "stars": 2,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "parametricparadigm/ComfyUI_Parametric_Studio",
+  "url": "https://github.com/parametricparadigm/ComfyUI_Parametric_Studio",
+  "description": "Every open model. One studio. Your GPU. An open-source creative suite on ComfyUI.",
+  "stars": 2,
+  "language": "Python",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "comfyui-custom-nodes",
+   "creative-tools",
+   "flux",
+   "generative-ai",
+   "image-generation",
+   "local-first",
+   "music-generation",
+   "open-weights",
+   "opensourcehiggsfield",
+   "self-hosted",
+   "stable-diffusion",
+   "video-generation",
+   "wan"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "codyclack/opensfield",
+  "url": "https://github.com/codyclack/opensfield",
+  "description": "Open-source Higgsfield rebuilt on ComfyUI (#OpenSourceHiggsfield): 146 tools + all 83 Higgsfield apps, Cinema Studio, Elements. Open weights + partner models. 130 with real renders. MIT.",
+  "stars": 5,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "rossaai/rosesfield",
+  "url": "https://github.com/rossaai/rosesfield",
+  "description": "Open-source Higgsfield alternative, built with ComfyUI. 25+ apps for image, video, audio and 3D on your own Comfy key.",
+  "stars": 5,
+  "language": "TypeScript",
+  "topics": [
+   "ai-image",
+   "ai-tools",
+   "ai-video",
+   "bun",
+   "cloudflare-workers",
+   "comfy",
+   "comfyui",
+   "flux",
+   "generative-ai",
+   "higgsfield-alternative",
+   "image-generation",
+   "ltx-video",
+   "mcp-server",
+   "open-source",
+   "open-source-higgsfield",
+   "opensourcehiggsfield",
+   "react",
+   "self-hosted",
+   "text-to-video",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "RahmelJackson/frameforge-studio",
+  "url": "https://github.com/RahmelJackson/frameforge-studio",
+  "description": "An open-source creative studio inspired by Higgsfield, powered by ComfyUI workflows. Create images, video, audio and short films with local models or external cloud handoffs.",
+  "stars": 5,
+  "language": "JavaScript",
+  "topics": [
+   "ai-video",
+   "comfyui"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "sintetizacom/easycomfee",
+  "url": "https://github.com/sintetizacom/easycomfee",
+  "description": "Open-source, Higgsfield-style creative studio on ComfyUI: image, video, LTX VFX, lip sync, music and voice, on your GPU or on Comfy Cloud. Easy Windows install with a one-click model installer.",
+  "stars": 23,
+  "language": "Python",
+  "topics": [
+   "ai-video",
+   "comfyui",
+   "generative-ai",
+   "image-generation",
+   "lip-sync",
+   "ltx-video",
+   "open-source",
+   "opensourcehiggsfield",
+   "text-to-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "dougliell/Cheapsfield",
+  "url": "https://github.com/dougliell/Cheapsfield",
+  "description": "A 100% local, 100% open-weights creative studio for Windows: Higgsfield-style apps and a node canvas on ComfyUI + Comfy SDK. Sketch to packshot, product and architecture renders, AI influencers, character swap and 1080p video with sound. No cloud, no credits.",
+  "stars": 10,
+  "language": "TypeScript",
+  "topics": [
+   "ai-influencer",
+   "architecture-visualization",
+   "comfy-sdk",
+   "comfyui",
+   "desktop-app",
+   "flux",
+   "generative-ai",
+   "image-generation",
+   "local-ai",
+   "ltx-video",
+   "minimax",
+   "minimax-h3",
+   "open-source-higgsfield",
+   "open-weights",
+   "product-photography",
+   "qwen-image",
+   "react",
+   "rust",
+   "tauri",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Arfolomew/backlot",
+  "url": "https://github.com/Arfolomew/backlot",
+  "description": "The open-source Higgsfield that runs on a 16 GB card. Local open-weights video + image studio on ComfyUI, driven through the Comfy SDK.",
+  "stars": 42,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "NeoMarcoPolo/marcostudio",
+  "url": "https://github.com/NeoMarcoPolo/marcostudio",
+  "description": "13 image and video tools that run on your own ComfyUI with open-weight models. Use the hosted app or run it locally.",
+  "stars": 10,
+  "language": "Python",
+  "topics": [
+   "comfyui",
+   "comfyui-workflow",
+   "creative-tools",
+   "image-editing",
+   "image-generation",
+   "local-first",
+   "minimax-h3",
+   "opensourcehiggsfield",
+   "python",
+   "qwen-image",
+   "react",
+   "relighting",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "MajoorWaldi/HyperKut-Studio",
+  "url": "https://github.com/MajoorWaldi/HyperKut-Studio",
+  "description": "A local ComfyUI-powered AI video studio for creating, remixing, and editing videos. Prepared for the Comfy Open Source Higgsfield challenge.",
+  "stars": 11,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "synthetic-ape/comfield",
+  "url": "https://github.com/synthetic-ape/comfield",
+  "description": "Open-source, Higgsfield-style creative studio for AI images and video, built on the Comfy Developer Platform (Comfy Router + Comfy SDK). Cloud models or open weights on your own GPU.",
+  "stars": 8,
+  "language": "TypeScript",
+  "topics": [
+   "ai-image",
+   "ai-video",
+   "comfy",
+   "comfy-router",
+   "comfy-sdk",
+   "comfyui",
+   "generative-ai",
+   "image-to-video",
+   "ltx-2",
+   "minimax-h3",
+   "open-source-higgsfield",
+   "text-to-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "leonardofrito/Directors-Cut",
+  "url": "https://github.com/leonardofrito/Directors-Cut",
+  "description": "Create locally. A local asset and REF2VA video studio for ComfyUI, powered by Qwen-Image 2.1, MiniMax H3 and the official Comfy SDK.",
+  "stars": 24,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "rk0neki/OpenKatana",
+  "url": "https://github.com/rk0neki/OpenKatana",
+  "description": "Agent-driven video editing with Studio, ComfyUI Apps, CLI and MCP. Turn photos, footage and music into finished edits.",
+  "stars": 82,
+  "language": "Python",
+  "topics": [
+   "ai-agents",
+   "comfyui",
+   "mcp",
+   "motion-graphics",
+   "open-source",
+   "opensourcehiggsfield",
+   "video-editing",
+   "visual-effects"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "regiellis/utsushi",
+  "url": "https://github.com/regiellis/utsushi",
+  "description": "A video studio for your own ComfyUI, in Go: motion transfer, object swap, style, long video, and local tools. Independent; not affiliated with Comfy Org or Higgsfield.",
+  "stars": 1,
+  "language": "Go",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "LLannnn/OSHCharacterStudio",
+  "url": "https://github.com/LLannnn/OSHCharacterStudio",
+  "description": "#OpenSourceHiggsfield  , make a comfy replace for  Genjutsu",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "SvetimFM/openjutsu-cat",
+  "url": "https://github.com/SvetimFM/openjutsu-cat",
+  "description": "Openjutsu-style motion transfer driven by depth performances (Kinect or any video) + an LTX cinema camera studio. ComfyUI, open weights, fully local on 8 GB VRAM.",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "fetchloom/OpenJutsu",
+  "url": "https://github.com/fetchloom/OpenJutsu",
+  "description": null,
+  "stars": 2,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Ex8-ca/openjutsu",
+  "url": "https://github.com/Ex8-ca/openjutsu",
+  "description": "Open-source alternative to Higgsfield Genjutsu Motion Transfer \u2014 local H3 + H3 Fun ControlNet via Comfy SDK",
+  "stars": 1,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "SydFloyd/openjutsu",
+  "url": "https://github.com/SydFloyd/openjutsu",
+  "description": "Open-source Higgsfield Genjutsu alternative on ComfyUI, open weights only. #OpenSourceHiggsfield",
+  "stars": 6,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "D3voz/comfyui-h3-oneclick-swap",
+  "url": "https://github.com/D3voz/comfyui-h3-oneclick-swap",
+  "description": "ComfyUI nodes for MiniMax H3 character and object swaps, tracked-person matching, Montage and face-refinement chunking. Used by Openjutsu.",
+  "stars": 6,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "demoncase/kagami",
+  "url": "https://github.com/demoncase/kagami",
+  "description": "open source version of higgsfield genjutsu",
+  "stars": 6,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "lvsas/OpenJutsuStudio",
+  "url": "https://github.com/lvsas/OpenJutsuStudio",
+  "description": null,
+  "stars": 19,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Bambushu/h3-recast",
+  "url": "https://github.com/Bambushu/h3-recast",
+  "description": "Swap up to three people in a video clip in one pass with MiniMax H3 + the BFS character swap LoRA. Keeps motion, set and audio. ComfyUI App-mode workflow.",
+  "stars": 53,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "thePloggy/CreatorOS-Studio",
+  "url": "https://github.com/thePloggy/CreatorOS-Studio",
+  "description": "Open-source Higgsfield on your own GPU: train a recurring character, turn a one-line brief into an edited reel, move the camera, re-shoot an angle, block shots in 3D, sketch to video, restore old footage. Runs on local ComfyUI, open-weights models only.",
+  "stars": 85,
+  "language": "TypeScript",
+  "topics": [
+   "ai-influencer",
+   "ai-video",
+   "character-consistency",
+   "comfyui",
+   "flux",
+   "generative-ai",
+   "image-to-video",
+   "lora",
+   "ltx-video",
+   "open-source-higgsfield",
+   "open-weights",
+   "seedvr2",
+   "self-hosted",
+   "text-to-video",
+   "video-editor"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "lucataco/open-source-higgsfield",
+  "url": "https://github.com/lucataco/open-source-higgsfield",
+  "description": "Same take, new cast: open-weights video character recasting on local ComfyUI with SAM 3.1, FLUX 3 Image Klein and SCAIL-2. Built for #OpenSourceHiggsfield.",
+  "stars": 78,
+  "language": "Python",
+  "topics": [
+   "character-replacement",
+   "comfyui",
+   "flux",
+   "open-weights",
+   "sam3",
+   "vfx",
+   "video-generation",
+   "wan21"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "szprivate/agentY",
+  "url": "https://github.com/szprivate/agentY",
+  "description": "AI agent to iteratively create visual content via comfyui workflows",
+  "stars": 53,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Comfy-Org/comfy-openjutsu",
+  "url": "https://github.com/Comfy-Org/comfy-openjutsu",
+  "description": "A clonable Comfy character-swap app and development guide",
+  "stars": 161,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "raph651/open-source-canvas",
+  "url": "https://github.com/raph651/open-source-canvas",
+  "description": "Open Source Canvas: an open-source node canvas that runs ComfyUI workflows.",
+  "stars": 160,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "wexloops/openfield",
+  "url": "https://github.com/wexloops/openfield",
+  "description": "Open-source studio for video, stills and 3D on your own GPU through ComfyUI",
+  "stars": 214,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "roadmaus/ComfyUI-Continuity",
+  "url": "https://github.com/roadmaus/ComfyUI-Continuity",
+  "description": null,
+  "stars": 156,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "jtydhr88/ComfyArt",
+  "url": "https://github.com/jtydhr88/ComfyArt",
+  "description": "The open-source, fully local design canvas",
+  "stars": 590,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "D3voz/openjutsu",
+  "url": "https://github.com/D3voz/openjutsu",
+  "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+  "stars": 2499,
+  "language": "TypeScript",
+  "topics": [
+   "character-swap",
+   "comfyui",
+   "minimax-h3",
+   "nextjs",
+   "open-weights",
+   "opensourcehiggsfield",
+   "video-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Keys-Wasserman/Imagination-Studio-by-keys-Wasserman",
+  "url": "https://github.com/Keys-Wasserman/Imagination-Studio-by-keys-Wasserman",
+  "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K pictures and MiniMax H3 / FastH3 video with sound on TensorFold.",
+  "stars": 1195,
+  "language": "Python",
+  "topics": [
+   "ai-filmmaking",
+   "apple-silicon",
+   "dgx-spark",
+   "fasth3",
+   "lora",
+   "minimax-h3",
+   "mlx",
+   "qwen-image",
+   "slate",
+   "tensorfold",
+   "text-to-video"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "canitcode/video2rig",
+  "url": "https://github.com/canitcode/video2rig",
+  "description": null,
+  "stars": 302,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "quantavil/awesome-android-games",
+  "url": "https://github.com/quantavil/awesome-android-games",
+  "description": "\ud83c\udfae A curated directory of awesome open-source Android games, engines, and codebases with automated live stats.",
+  "stars": 32,
+  "language": "Python",
+  "topics": [
+   "android",
+   "android-game",
+   "android-games",
+   "awesome",
+   "awesome-list",
+   "gamedev",
+   "games",
+   "gaming",
+   "java",
+   "kotlin",
+   "open-source"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "bigerbigernerd/awesome-open-games",
+  "url": "https://github.com/bigerbigernerd/awesome-open-games",
+  "description": "\ud83c\udfae A curated collection of open-source games you can actually play, plus engines, frameworks, tutorials, and free assets to build your own.",
+  "stars": 2,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ChessMax/awesome-game-engines",
+  "url": "https://github.com/ChessMax/awesome-game-engines",
+  "description": "The list of awesome game engines for everything\ud83d\ude0e",
+  "stars": 164,
+  "language": "Markdown",
+  "topics": [
+   "awesome-list",
+   "game",
+   "game-development",
+   "games"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "1ojn/awesome-rpg-resources",
+  "url": "https://github.com/1ojn/awesome-rpg-resources",
+  "description": null,
+  "stars": 1,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Zireael07/awesome-tabletop-rpgs",
+  "url": "https://github.com/Zireael07/awesome-tabletop-rpgs",
+  "description": "Awesome list of free and/or open source tabletop RPGs",
+  "stars": 313,
+  "language": null,
+  "topics": [
+   "awesome-list",
+   "tabletop-rpgs"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "flamableconcrete/awesome-dnd",
+  "url": "https://github.com/flamableconcrete/awesome-dnd",
+  "description": "Resources for Dungeons & Dragons",
+  "stars": 308,
+  "language": null,
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "compendium",
+   "hacktoberfest"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ebluffy/agent-tool-catalog",
+  "url": "https://github.com/ebluffy/agent-tool-catalog",
+  "description": "Curated public catalog of agent/LLM tooling (skills, MCP, UI, automation). No personal projects.",
+  "stars": 2,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "fevziegeyurtsevenler/awesome-agent-supply-chain-security",
+  "url": "https://github.com/fevziegeyurtsevenler/awesome-agent-supply-chain-security",
+  "description": "A curated list of tools, research, standards and datasets for the security of AI agent extensions \u2014 skills, MCP servers, plugins and rules files.",
+  "stars": 2,
+  "language": null,
+  "topics": [
+   "agent-security",
+   "agent-skills",
+   "ai-security",
+   "awesome",
+   "awesome-list",
+   "llm-security",
+   "mcp",
+   "prompt-injection",
+   "security",
+   "supply-chain-security"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ianwieds/awesome-ai-agents",
+  "url": "https://github.com/ianwieds/awesome-ai-agents",
+  "description": "A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.",
+  "stars": 7,
+  "language": null,
+  "topics": [
+   "agent",
+   "agentic",
+   "agents",
+   "ai",
+   "ai-agents",
+   "artificial-intelligence",
+   "autonomous-agents",
+   "awesome",
+   "awesome-list",
+   "langchain",
+   "llm",
+   "llm-powered-agents",
+   "machine-learning",
+   "multi-agent",
+   "openai"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "uhub/awesome-llm",
+  "url": "https://github.com/uhub/awesome-llm",
+  "description": "A curated list of awesome LLM frameworks, libraries and software.",
+  "stars": 874,
+  "language": null,
+  "topics": [
+   "ai",
+   "awesome",
+   "awesome-list",
+   "curated-list",
+   "large-language-models",
+   "list",
+   "llm",
+   "resources"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Shubhamsaboo/awesome-llm-apps",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+  "stars": 145089,
+  "language": "Python",
+  "topics": [
+   "agents",
+   "llms",
+   "python",
+   "rag"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "punkpeye/awesome-mcp-servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "description": "A collection of MCP servers.",
+  "stars": 98261,
+  "language": null,
+  "topics": [
+   "ai",
+   "mcp"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "tannercyost/dnd-vtt",
+  "url": "https://github.com/tannercyost/dnd-vtt",
+  "description": "An open source virtual tabletop for DND via mostly serverless p2p connections",
+  "stars": 1,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "Kamalesh-Kavin/dnd-vtt",
+  "url": "https://github.com/Kamalesh-Kavin/dnd-vtt",
+  "description": "D&D Virtual Tabletop \u2014 play D&D online with friends. Procedural dungeons, combat, fog of war, AI DM.",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "RPTools/maptool",
+  "url": "https://github.com/RPTools/maptool",
+  "description": "Virtual Tabletop for playing roleplaying games with remote players or face to face.",
+  "stars": 935,
+  "language": "Java",
+  "topics": [
+   "game",
+   "hacktoberfest",
+   "java",
+   "maptool",
+   "role-playing",
+   "roleplaying",
+   "roleplaying-game",
+   "roleplaying-games",
+   "rpg",
+   "tabletop",
+   "virtual-tabletop",
+   "vtt"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "dibiccari/ai-vtt",
+  "url": "https://github.com/dibiccari/ai-vtt",
+  "description": null,
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "rollacode/dread-delusion-ai",
+  "url": "https://github.com/rollacode/dread-delusion-ai",
+  "description": "AI-driven LLM NPC dialogue for Dread Delusion via a CodeTerm external connector",
+  "stars": 1,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "a16z-infra/ai-town",
+  "url": "https://github.com/a16z-infra/ai-town",
+  "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
+  "stars": 10832,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "joonspk-research/generative_agents",
+  "url": "https://github.com/joonspk-research/generative_agents",
+  "description": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "stars": 22398,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "dfabulich/choicescript",
+  "url": "https://github.com/dfabulich/choicescript",
+  "description": "ChoiceScript is a language for developing multiple-choice games.",
+  "stars": 464,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "klembot/twinejs",
+  "url": "https://github.com/klembot/twinejs",
+  "description": "Twine, a tool for telling interactive, nonlinear stories",
+  "stars": 2957,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "inkle/ink",
+  "url": "https://github.com/inkle/ink",
+  "description": "inkle's open source scripting language for writing interactive narrative.",
+  "stars": 5025,
+  "language": "C#",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "flareteam/flare-engine",
+  "url": "https://github.com/flareteam/flare-engine",
+  "description": "Free/Libre Action Roleplaying Engine (engine only)",
+  "stars": 1312,
+  "language": "C++",
+  "topics": [
+   "2d-game-engine",
+   "action-rpg",
+   "c-plus-plus",
+   "fdroid",
+   "rpg"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "godotengine/godot",
+  "url": "https://github.com/godotengine/godot",
+  "description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine",
+  "stars": 120439,
+  "language": "C++",
+  "topics": [
+   "game-development",
+   "game-engine",
+   "gamedev",
+   "godot",
+   "godotengine",
+   "multi-platform",
+   "open-source"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "krazyjakee/DungeonTemplateLibrary-Godot",
+  "url": "https://github.com/krazyjakee/DungeonTemplateLibrary-Godot",
+  "description": "\ud83c\udf0f: Godot Dungeon free resources (terrain & roguelike generation)",
+  "stars": 55,
+  "language": "C++",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "galaxykate/tracery",
+  "url": "https://github.com/galaxykate/tracery",
+  "description": "Tracery: a story-grammar generation library for javascript",
+  "stars": 2221,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ondras/rot.js",
+  "url": "https://github.com/ondras/rot.js",
+  "description": "ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!",
+  "stars": 2732,
+  "language": "JavaScript",
+  "topics": [
+   "hacktoberfest",
+   "library",
+   "roguelike"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Azgaar/Fantasy-Map-Generator",
+  "url": "https://github.com/Azgaar/Fantasy-Map-Generator",
+  "description": "Web application generating interactive and highly customizable maps",
+  "stars": 6228,
+  "language": "TypeScript",
+  "topics": [
+   "dungeons-and-dragons",
+   "fantasy-maps",
+   "generator",
+   "map-generation",
+   "procedural-generation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "DangerBlack/dnd-5-2024-json",
+  "url": "https://github.com/DangerBlack/dnd-5-2024-json",
+  "description": "Some json of dungeons & dragons 2024 material",
+  "stars": 3,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "5etools-mirror-3/5etools-src",
+  "url": "https://github.com/5etools-mirror-3/5etools-src",
+  "description": "A mirror.",
+  "stars": 559,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "azemoning/omni-5e",
+  "url": "https://github.com/azemoning/omni-5e",
+  "description": "REST API + CLI for the D&D 5e System Reference Document \u2014 complete SRD 5.2.1 as structured, queryable JSON",
+  "stars": 4,
+  "language": "Go",
+  "topics": [
+   "5e-srd",
+   "api",
+   "cli",
+   "dnd",
+   "dnd-api",
+   "dnd5e",
+   "dungeons-and-dragons",
+   "fiber",
+   "go",
+   "golang",
+   "hexagonal-architecture",
+   "openapi",
+   "postgresql",
+   "rest-api",
+   "rpg",
+   "srd",
+   "srd-api",
+   "swagger",
+   "tabletop",
+   "tabletop-rpg"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "5e-bits/5e-srd-api",
+  "url": "https://github.com/5e-bits/5e-srd-api",
+  "description": "REST API to access D&D 5th Edition SRD database",
+  "stars": 653,
+  "language": "TypeScript",
+  "topics": [
+   "5e-srd-api",
+   "hacktoberfest"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "s-macke/weltendaemmerung",
+  "url": "https://github.com/s-macke/weltendaemmerung",
+  "description": "Guide to reverse engineer an old computer game with AI and port it to the web",
+  "stars": 21,
+  "language": "Assembly",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "mstan/TombaRecomp",
+  "url": "https://github.com/mstan/TombaRecomp",
+  "description": "Tomba! (USA) recompiled for the Sony PlayStation using psxrecomp \u00b7 Part of the R.A.I.D. community",
+  "stars": 84,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "h1994st/chromatron-remake",
+  "url": "https://github.com/h1994st/chromatron-remake",
+  "description": "Native Apple Silicon macOS remake, in Rust, of Sean Barrett's Chromatron 1\u20134 laser puzzle games",
+  "stars": 2,
+  "language": "Rust",
+  "topics": [
+   "apple-silicon",
+   "chromatron",
+   "game",
+   "laser",
+   "macos",
+   "powerpc",
+   "puzzle-game",
+   "reverse-engineering",
+   "rust",
+   "winit"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "metavert-io/lofp",
+  "url": "https://github.com/metavert-io/lofp",
+  "description": "Legends of Future Past, the classic commercial MUD form the 1990's",
+  "stars": 186,
+  "language": "HTML",
+  "topics": [
+   "game",
+   "game-development",
+   "go",
+   "golang",
+   "interactive-fiction",
+   "mud",
+   "mud-server",
+   "online-game",
+   "typescript"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Interkarma/daggerfall-unity",
+  "url": "https://github.com/Interkarma/daggerfall-unity",
+  "description": "Open source recreation of Daggerfall in the Unity engine",
+  "stars": 3585,
+  "language": "C#",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ihhub/fheroes2",
+  "url": "https://github.com/ihhub/fheroes2",
+  "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine",
+  "stars": 3730,
+  "language": "C++",
+  "topics": [
+   "cpp",
+   "game",
+   "game-development",
+   "game-engine",
+   "heroes-2",
+   "heroes-of-might-and-magic-2",
+   "heroes-of-might-and-magic-ii",
+   "homm-ii",
+   "homm2",
+   "strategy-game",
+   "turn-based-strategy"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "vcmi/vcmi",
+  "url": "https://github.com/vcmi/vcmi",
+  "description": "Open-source engine for Heroes of Might and Magic III",
+  "stars": 6036,
+  "language": "C++",
+  "topics": [
+   "android",
+   "c-plus-plus",
+   "cmake",
+   "cpp",
+   "game",
+   "ios",
+   "linux",
+   "macos",
+   "sdl2",
+   "windows"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "diasurgical/DevilutionX",
+  "url": "https://github.com/diasurgical/DevilutionX",
+  "description": "Diablo build for modern operating systems",
+  "stars": 10029,
+  "language": "C++",
+  "topics": [
+   "debian",
+   "devilution",
+   "diablo",
+   "game",
+   "hacktober",
+   "hacktoberfest",
+   "homebrew"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "OpenMW/openmw",
+  "url": "https://github.com/OpenMW/openmw",
+  "description": "OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/",
+  "stars": 6767,
+  "language": "C++",
+  "topics": [
+   "c-plus-plus",
+   "foss",
+   "morrowind",
+   "open-source",
+   "openmw",
+   "rpg-engine",
+   "tes"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "iliak/dungeoneye",
+  "url": "https://github.com/iliak/dungeoneye",
+  "description": "Dungeon Eye is an open source remake of Eye of the beholder II. ",
+  "stars": 52,
+  "language": "C#",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "xoreos/xoreos",
+  "url": "https://github.com/xoreos/xoreos",
+  "description": "A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P",
+  "stars": 1198,
+  "language": "C++",
+  "topics": [
+   "aurora",
+   "bioware",
+   "c-plus-plus",
+   "dragon-age",
+   "game",
+   "jade-empire",
+   "knights-of-the-old-republic",
+   "kotor",
+   "kotor2",
+   "neverwinter-nights",
+   "nwn",
+   "nwn2",
+   "reimplementation",
+   "reverse-engineering",
+   "roleplaying-game",
+   "rpg",
+   "the-witcher"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "gemrb/gemrb",
+  "url": "https://github.com/gemrb/gemrb",
+  "description": "GemRB is a portable open-source implementation of Bioware\u2019s Infinity Engine.",
+  "stars": 1272,
+  "language": "C++",
+  "topics": [
+   "c-plus-plus",
+   "engine",
+   "game",
+   "game-engine",
+   "isometric",
+   "python"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "Hannibal046/Awesome-LLM",
+  "url": "https://github.com/Hannibal046/Awesome-LLM",
+  "description": "Awesome-LLM: a curated list of Large Language Model",
+  "stars": 27510,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "eudk/awesome-ai-tools",
+  "url": "https://github.com/eudk/awesome-ai-tools",
+  "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated 2026",
+  "stars": 613,
+  "language": null,
+  "topics": [
+   "ai",
+   "ai-research",
+   "chatgpt",
+   "claude-ai",
+   "claude-code",
+   "codex",
+   "datascience",
+   "deepseek",
+   "generative-ai",
+   "learning-ai",
+   "llm",
+   "machinelearning",
+   "midjourney",
+   "ml",
+   "openai",
+   "prompt-engineering",
+   "qwen",
+   "seedance",
+   "sora"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+  "stars": 79900,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "antigravity",
+   "automation",
+   "claude",
+   "claude-code",
+   "codex",
+   "composio",
+   "cursor",
+   "developer-tools",
+   "gemini-cli",
+   "mcp",
+   "openai-codex",
+   "rube",
+   "saas",
+   "skill",
+   "workflow-automation"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "liyangbing/awesome-harness-engineering-yenanjing",
+  "url": "https://github.com/liyangbing/awesome-harness-engineering-yenanjing",
+  "description": "A curated list of awesome harness engineering frameworks, libraries, tools and resources. \ud83d\udee0\ufe0f 80+ repos covering agent harnesses, evaluation frameworks, CI/CD platforms & more",
+  "stars": 1,
+  "language": null,
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "ai-boost/awesome-harness-engineering",
+  "url": "https://github.com/ai-boost/awesome-harness-engineering",
+  "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+  "stars": 5196,
+  "language": "Python",
+  "topics": [
+   "agent-harness",
+   "agent-memory",
+   "agent-orchestration",
+   "ai-agent-harness",
+   "ai-agents",
+   "awesome-list",
+   "context-engineering",
+   "harness-engineering",
+   "mcp"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "weiwei966/awesome-ai-harness",
+  "url": "https://github.com/weiwei966/awesome-ai-harness",
+  "description": "The model is the engine; the harness is the car. Curated knowledge on harness engineering \u2014 context management, tool design, agent loops, memory, sandboxing, evals. EN/\u4e2d\u6587",
+  "stars": 137,
+  "language": null,
+  "topics": [
+   "agent-harness",
+   "agentic-ai",
+   "ai-agents",
+   "awesome-list",
+   "context-engineering",
+   "llm",
+   "mcp",
+   "prompt-engineering"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "e2b-dev/awesome-ai-agents",
+  "url": "https://github.com/e2b-dev/awesome-ai-agents",
+  "description": "A list of AI autonomous agents",
+  "stars": 30991,
+  "language": null,
+  "topics": [
+   "agent",
+   "ai",
+   "artificial-intelligence",
+   "autogpt",
+   "autonomous-agents",
+   "awesome",
+   "babyagi",
+   "copilot",
+   "gpt",
+   "gpt-4",
+   "gpt-engineer",
+   "openai",
+   "python"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "SubmitGame/awesome-decomp-games",
+  "url": "https://github.com/SubmitGame/awesome-decomp-games",
+  "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+  "stars": 3131,
+  "language": "Python",
+  "topics": [
+   "awesome",
+   "awesome-list",
+   "decompilation",
+   "game-preservation",
+   "recompilation",
+   "reverse-engineering",
+   "source-port"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "morluto/awesome-reverse-engineering",
+  "url": "https://github.com/morluto/awesome-reverse-engineering",
+  "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+  "stars": 2237,
+  "language": "Python",
+  "topics": [
+   "agent-skills",
+   "ai-agents",
+   "awesome",
+   "awesome-list",
+   "binary-analysis",
+   "ctf",
+   "cybersecurity",
+   "debugging",
+   "decompiler",
+   "disassembler",
+   "dynamic-analysis",
+   "frida",
+   "ghidra",
+   "malware-analysis",
+   "mcp",
+   "rea",
+   "reverse-engineering",
+   "security",
+   "security-tools",
+   "static-analysis"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "heaven-hm/awesome-reverse-engineered-games",
+  "url": "https://github.com/heaven-hm/awesome-reverse-engineered-games",
+  "description": "A curated list and comprehensive guide of awesome reverse-engineered, decompiled, and rebuilt games powered by AI models and agentic tools",
+  "stars": 36,
+  "language": null,
+  "topics": [
+   "ai",
+   "awesome",
+   "awesome-list",
+   "decompilation",
+   "game-development",
+   "game-preservation",
+   "reverse-engineering"
+  ],
+  "archived": false
+ },
+ {
+  "full_name": "d123d/dnd",
+  "url": "https://github.com/d123d/dnd",
+  "description": "Private D&D reference corpus (formerly public): SRD 5.2.1, 5e + 3.5e rules data, 5etools mirror, and the full Forgotten Realms wiki \u2014 organized for AI agents. Current open work is in d123d/fantasy-world.",
+  "stars": 1,
+  "language": "Python",
+  "topics": [
+   "5etools",
+   "ai-agents",
+   "dnd-3-5e",
+   "dnd-5e",
+   "dungeons-and-dragons",
+   "forgotten-realms",
+   "srd",
+   "ttrpg"
+  ],
+  "archived": true
+ },
+ {
+  "full_name": "blendi-remade/interdimensional-game",
+  "url": "https://github.com/blendi-remade/interdimensional-game",
+  "description": "Create your own adventure with realtime video!",
+  "stars": 255,
+  "language": "TypeScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "nyghtowl/sheep-audio-dreams",
+  "url": "https://github.com/nyghtowl/sheep-audio-dreams",
+  "description": "Demo of audio agents playing D&D",
+  "stars": 3,
+  "language": "Python",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "envy-ai/ai_rpg",
+  "url": "https://github.com/envy-ai/ai_rpg",
+  "description": null,
+  "stars": 153,
+  "language": "JavaScript",
+  "topics": [],
+  "archived": false
+ },
+ {
+  "full_name": "permissionlesstech/bitchat",
+  "url": "https://github.com/permissionlesstech/bitchat",
+  "description": "bluetooth mesh chat, IRC vibes",
+  "stars": 37188,
+  "language": "Swift",
+  "topics": [
+   "bluetooth",
+   "bluetooth-le",
+   "decentralized",
+   "e2e-encryption",
+   "ios",
+   "macos",
+   "mesh-network",
+   "messaging",
+   "nostr",
+   "swift"
+  ],
+  "archived": false
+ }
+]
