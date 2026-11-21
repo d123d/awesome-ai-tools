@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/d123d/awesome-ai-tools?style=social) ![Last commit](https://img.shields.io/github/last-commit/d123d/awesome-ai-tools)
 
-**By the numbers (Nov 19, 2026):** 340+ curated entries · 297 starred repos in 9 sections · 34 custom skills · 58 system skills · 30+ connectors. Links are checked weekly by CI.
+**By the numbers (Nov 20, 2026):** 420+ entries · 74 tools worth a look (new) · 297 starred repos in 9 sections · 34 custom skills · 58 system skills · 30+ connectors. Links are checked weekly by CI.
 
 A curated handout of **the AI tools we actually use and star** — agent harnesses, coding agents, skills and MCP servers, local models and inference, ComfyUI video/image pipelines, 3D and world generation, voice, and the automation that ties them together.
 
@@ -26,6 +26,7 @@ Only open, free, or free-tier tools are listed as *tools* in Our Stack. Each ent
 - [Voice, Audio & Music](#voice-audio--music)
 - [Writing, Worldbuilding & Games](#writing-worldbuilding--games)
 - [Automation & Bridges](#automation--bridges)
+- [More Tools Worth a Look](#more-tools-worth-a-look)
 - [Starred by d123d — the complete list](#starred-by-d123d--the-complete-list)
 - [License](#license)
 
@@ -142,6 +143,110 @@ All 20 are also in the full starred list below.
 - Tool inventory maintenance — weekly job that refreshes the PC's tool registry, applies safe stable updates, smoke-tests, and reports by Telegram.
 
 ---
+## More Tools Worth a Look
+
+**Not in daily use (yet).** Verified live on GitHub on Nov 20, 2026 — repo, star count, and description pulled from the API — and grouped by the job they would do here. Candidates for the stack, not part of it. Two more verified tools are already in Our Stack above and are not repeated: [ComfyUI](#image-video--comfyui) and [Aider](#agent-harnesses--coding-agents).
+
+### Platforms & Inference
+
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) — ★4,059 — The official CLI and Python client for the Hugging Face Hub. *Apache-2.0.*
+- [huggingface/transformers](https://github.com/huggingface/transformers) — ★169,331 — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and… *Apache-2.0.*
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) — ★97,284 — A high-throughput and memory-efficient inference and serving engine for LLMs. *Apache-2.0.*
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) — ★38,888 — SGLang is a high-performance serving framework for large language models and multimodal models. *Apache-2.0.*
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) — ★159,172 — User-friendly AI Interface (Supports Ollama, OpenAI API, ...). *NOASSERTION.*
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — ★47,370 — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini,… *MIT.*
+- [langgenius/dify](https://github.com/langgenius/dify) — ★161,582 — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from… *NOASSERTION.*
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — ★156,812 — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. *MIT.*
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) — ★55,584 — Build AI Agents, Visually. *NOASSERTION.* *(archived)*
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) — ★211,555 — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. *NOASSERTION.*
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) — ★77,332 — GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. *MIT.*
+- [janhq/jan](https://github.com/janhq/jan) — ★45,964 — Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. *NOASSERTION.*
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) — ★5,444 — LM Studio CLI. *MIT.*
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) — ★47,734 — Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private. *AGPL-3.0.*
+- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) — ★8,424 — AI Browser. *MIT.*
+
+### Agents & MCP
+
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — ★45,204 — Build resilient agents. *MIT.*
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — ★61,130 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling… *MIT.*
+- [microsoft/autogen](https://github.com/microsoft/autogen) — ★61,954 — A programming framework for agentic AI. *CC-BY-4.0.* *(archived)*
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) — ★30,461 — 🤗 smolagents: a barebones library for agents that think in code. *Apache-2.0.*
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — ★93,929 — 🙌 OpenHands: AI-Driven Development. *MIT.*
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) — ★20,840 — SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding… *MIT.*
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) — ★69,286 — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. *Apache-2.0.*
+- [letta-ai/letta](https://github.com/letta-ai/letta) — ★25,505 — Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. *Apache-2.0.*
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) — ★33,437 — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free. *Apache-2.0.*
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — ★92,135 — Model Context Protocol Reference Servers. *NOASSERTION.*
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) — ★34,625 — GitHub's official MCP Server. *MIT.*
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) — ★39,942 — Playwright MCP server. *Apache-2.0.*
+- [upstash/context7](https://github.com/upstash/context7) — ★65,194 — Context7 Platform -- Up-to-date docs for AI agents. *MIT.*
+- [oraios/serena](https://github.com/oraios/serena) — ★31,557 — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent. *NOASSERTION.*
+
+### Coding Agents
+
+- [continuedev/continue](https://github.com/continuedev/continue) — ★36,532 — open-source coding agent. *Apache-2.0.*
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) — ★24,237 — Roo Code gives you a whole dev team of AI agents in your code editor. *Apache-2.0.* *(archived)*
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) — ★33,933 — Self-hosted AI coding assistant. *NOASSERTION.*
+
+### Browser Agents
+
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — ★121,623 — Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. *MIT.*
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) — ★26,105 — The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more. *MIT.*
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — ★23,481 — Automate browser based workflows with AI. *AGPL-3.0.*
+
+### Data, RAG & Evals
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — ★205,301 — Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. *AGPL-3.0.*
+- [docling-project/docling](https://github.com/docling-project/docling) — ★70,828 — Get your documents ready for gen AI. *MIT.*
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) — ★84,064 — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. *NOASSERTION.*
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) — ★35,650 — Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/. *Apache-2.0.*
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) — ★29,718 — Search infrastructure for AI. *Apache-2.0.*
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) — ★46,708 — Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search. *Apache-2.0.*
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) — ★37,680 — 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI… *NOASSERTION.*
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — ★12,366 — AI Observability & Evaluation. *NOASSERTION.*
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) — ★27,501 — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple… *MIT.*
+
+### Voice & Audio
+
+- [livekit/livekit](https://github.com/livekit/livekit) — ★22,314 — End-to-end realtime stack for connecting humans and AI. *Apache-2.0.*
+- [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) — ★17,364 — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community. *BSD-2-Clause.*
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) — ★26,911 — Faster Whisper transcription with CTranslate2. *MIT.*
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) — ★28,007 — SoTA open-source TTS. *MIT.*
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) — ★10,269 — https://hf.co/hexgrad/Kokoro-82M. *Apache-2.0.*
+- [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) — ★24,463 — Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. *Apache-2.0.*
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) — ★15,632 — Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching". *MIT.*
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) — ★12,599 — Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge. *NOASSERTION.*
+
+### Image & Video Models
+
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) — ★53,962 — Focus on prompting and generating. *GPL-3.0.*
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) — ★29,131 — Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media… *Apache-2.0.*
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — ★165,366 — Stable Diffusion web UI. *AGPL-3.0.*
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) — ★26,072 — Official inference repo for FLUX.1 models. *Apache-2.0.*
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) — ★11,445 — Official repository for LTX-Video. *Apache-2.0.*
+- [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) — ★17,468 — Wan: Open and Advanced Large-Scale Video Generative Models. *Apache-2.0.*
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) — ★13,217 — text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023). *Apache-2.0.*
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — ★12,814 — HunyuanVideo: A Systematic Framework For Large Video Generation Model. *NOASSERTION.*
+- [genmoai/mochi](https://github.com/genmoai/mochi) — ★3,766 — The best OSS video generation models, created by Genmo. *Apache-2.0.*
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) — ★52,989 — 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. *AGPL-3.0.*
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) — ★37,588 — Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. *BSD-3-Clause.*
+- [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) — ★14,213 — [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. *NOASSERTION.*
+- [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) — ★13,282 — This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD…
+- [antgroup/echomimic_v2](https://github.com/antgroup/echomimic_v2) — ★4,678 — [CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation. *Apache-2.0.*
+- [bytedance/LatentSync](https://github.com/bytedance/LatentSync) — ★6,306 — Taming Stable Diffusion for Lip Sync! *Apache-2.0.*
+
+### Training
+
+- [huggingface/peft](https://github.com/huggingface/peft) — ★21,908 — 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. *Apache-2.0.*
+- [huggingface/trl](https://github.com/huggingface/trl) — ★19,781 — Train transformer language models with reinforcement learning. *Apache-2.0.*
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) — ★12,739 — Go ahead and axolotl questions. *Apache-2.0.*
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) — ★76,162 — Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024). *Apache-2.0.*
+
+### Cloud GPU & APIs
+
+- [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) — ★1,291 — Examples of programs built using Modal. *MIT.*
+- [replicate/replicate-python](https://github.com/replicate/replicate-python) — ★919 — Python client for Replicate. *Apache-2.0.*
+- [fal-ai/fal](https://github.com/fal-ai/fal) — ★983 — ⚡ Fastest way to serve open source ML models to millions. *Apache-2.0.*
 ## Starred by d123d — the complete list
 
 All **297 GitHub repos starred by [d123d](https://github.com/d123d)**, pulled from the GitHub API and sorted into sections automatically by name, description, and topics (star counts as of the last refresh). Every public star, no cherry-picking (1 private star omitted). Machine-readable copy: [data/starred.json](data/starred.json). Regenerate with `python3 build_list.py`.
